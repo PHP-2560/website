@@ -1,118 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="utf-8" />
-	<link rel="icon" sizes="76x76" href="../img/favicon.png">
-	<link rel="icon" type="image/png" href="../img/favicon.png">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+---
+title: ""
+---
 
-	<title>PHP 1560/2560: Statistical Programming in R</title>
 
-	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
-
-	
-	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="https://cdn.rawgit.com/gaborcsardi/r-font/master/rlogo.css">
-  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/v4-shims.js"></script>
-
-	
-    <link href="../css/bootstrap.min.css" rel="stylesheet" />
-    <link href="../css/material-kit.css" rel="stylesheet"/>
-</head>
-
-  
-<body class="profile-page">
-  	<nav class="navbar navbar-transparent navbar-fixed-top navbar-color-on-scroll">
-	    	<div class="container">
-        	
-        	<div class="navbar-header">
-        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
-            		<span class="sr-only">Toggle navigation</span>
-		            <span class="icon-bar"></span>
-		            <span class="icon-bar"></span>
-		            <span class="icon-bar"></span>
-        		</button>
-        		<a class="navbar-brand" href="../">PHP 1560/2560: Statistical Programming in R</a>
-        	</div>
-
-        	<div class="collapse navbar-collapse" id="navigation-example">
-        		<ul class="nav navbar-nav navbar-right">
-      
-        
-
-        <li class="nav-item">
-          <a href="../">
-            <i class="sidebar-button-icon fa fa-lg fa-home"></i>
-            <span>Home</span>
-          </a>
-        </li>
-        
-      
-        
-
-        <li class="nav-item">
-          <a href="../syllabus">
-            <i class="material-icons">gavel</i>
-            <span>Syllabus</span>
-          </a>
-        </li>
-        
-      
-        
-
-        <li class="nav-item">
-          <a href="../calendar">
-            <i class="material-icons">date_range</i>
-            <span>Calendar</span>
-          </a>
-        </li>
-        
-      
-        
-
-        <li class="nav-item">
-          <a href="https://rstudio.cloud">
-            <i class="material-icons">cloud_queue</i>
-            <span>RStudio</span>
-          </a>
-        </li>
-        
-      
-        
-
-        <li class="nav-item">
-          <a href="https://github.com/PHP-2560">
-            <i class='fab fa-github fa-lg'></i>
-            <span>GitHub</span>
-          </a>
-        </li>
-        
-      
-        
-
-        <li class="nav-item">
-          <a href="https://php-1560-2560.slack.com/s">
-            <i class='fab fa-slack fa-lg'></i>
-            <span>Slack</span>
-          </a>
-        </li>
-        
-      
-        		</ul>
-        	</div>
-    	</div>
-    </nav>
-  <div class="wrapper">
-    <div class="header header-filter" style="background-image: url('/img/background.png');">
-    </div>
-		<div class="main main-raised">
-			<div class="container">
-		  	<div class="section text-left">
-		  	  <h2 class="title"></h2>
-	            <style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -157,9 +48,10 @@ h6 {
 }
 </style>
 
-<p></head></p>
 
-<p><body></p>
+</head>
+
+<body>
 
 <style type="text/css">
 .main-container {
@@ -182,6 +74,8 @@ button.code-folding-btn:focus {
   outline: none;
 }
 </style>
+
+
 
 <div class="container-fluid main-container">
 
@@ -208,6 +102,7 @@ $(document).ready(function () {
 <h4 class="date"><em>Fall 2017</em></h4>
 
 </div>
+
 
 <div id="course-description" class="section level1">
 <h1>Course Description</h1>
@@ -706,7 +601,10 @@ $(document).ready(function () {
 <p>Brown University welcomes students from around the world, and the unique perspectives international students bring enrich the campus community. To empower students whose first language is not English, an array of ELL support is available on campus including language and culture workshops and individual appointments. For more information about English Language Learning at Brown, contact the ELL Specialists at <a href="mailto:ellwriting@brown.edu">ellwriting@brown.edu</a>.</p>
 </div>
 
-<p></div></p>
+
+
+
+</div>
 
 <script>
 
@@ -722,7 +620,6 @@ $(document).ready(function () {
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
-
 <script>
   (function () {
     var script = document.createElement("script");
@@ -731,67 +628,3 @@ $(document).ready(function () {
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
-
-	      </div>
-      </div>
-		</div>
-    <footer class="footer">
-  <div class="container">
-	  <nav class="pull-left">
-	    <ul>
-	    
-        
-
-        <li>
-          <a href="https://www.brown.edu/academics/public-health/biostatistics/"><i class="button-icon fa fa-2x fa-map-marker"></i> Brown Biostats</a>
-        </li>
-        
-      
-        
-
-        <li>
-          <a href="https://rstudio.cloud/"><i class="icon-rlogo" style="font-size:150%"></i> RStudio</a>
-        </li>
-        
-      
-        
-
-        <li>
-          <a href="https://github.com/PHP-2560"><i class="button-icon fa fa-2x fa-github"></i> GitHub</a>
-        </li>
-        
-      
-        
-
-        <li>
-          <a href="../"> </a>
-        </li>
-        
-      
-      </ul>
-    </nav>
-	  <div class="copyright pull-right">
-	    <img src="../img/cc-by.svg"/>
-	  </div>
-  </div>
-</footer>
-	</div>
-</body>
-
-			
-
-	
-	<script src="../js/jquery.min.js" type="text/javascript"></script>
-	<script src="../js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="../js/material.min.js"></script>
-
-	
-	<script src="../js/nouislider.min.js" type="text/javascript"></script>
-
-	
-	<script src="../js/bootstrap-datepicker.js" type="text/javascript"></script>
-
-	
-	<script src="../js/material-kit.js" type="text/javascript"></script>
-
-</html>
