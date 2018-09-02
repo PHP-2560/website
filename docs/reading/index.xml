@@ -1,125 +1,125 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Readings on PHP 1560/2560: Statistical Programming in R</title>
-    <link>/reading/</link>
-    <description>Recent content in Readings on PHP 1560/2560: Statistical Programming in R</description>
+    <title>Readings on PHP 1560/2560: Statistical Programming with R</title>
+    <link>https://php2560.com/reading/</link>
+    <description>Recent content in Readings on PHP 1560/2560: Statistical Programming with R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/reading/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://php2560.com/reading/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Week 00 Reading</title>
-      <link>/reading/00-reading/</link>
+      <link>https://php2560.com/reading/00-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/00-reading/</guid>
+      <guid>https://php2560.com/reading/00-reading/</guid>
       <description>First Class is September 12 Introduction Welcome to the class! The first step will be to watch the video below and then to go through the syllabus!
  Syllabus Please click on the link in the menu for the syllabus. Read through this so that you know what the class is about and then proceed to the Pre Class work for Week 01</description>
     </item>
     
     <item>
       <title>Week 01 Reading</title>
-      <link>/reading/01-reading/</link>
+      <link>https://php2560.com/reading/01-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/01-reading/</guid>
+      <guid>https://php2560.com/reading/01-reading/</guid>
       <description> Required Reading  Getting Started with R  Read Everything and make sure you install both R and RStudio Explore RStudio  Happy git with R  Read through this and install Git with the instructions here.   </description>
     </item>
     
     <item>
       <title>Week 02 Reading</title>
-      <link>/reading/02-reading/</link>
+      <link>https://php2560.com/reading/02-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/02-reading/</guid>
+      <guid>https://php2560.com/reading/02-reading/</guid>
       <description> Required Reading  Introduction to R  Read whole module on tidy data.  R for Data Science  Read Chap 9 - 16    Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 1-5 Jones Chap 1-2 Teetor Chap 7 Rizzo Chap 1  </description>
     </item>
     
     <item>
       <title>Week 03 Reading</title>
-      <link>/reading/03-reading/</link>
+      <link>https://php2560.com/reading/03-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/03-reading/</guid>
+      <guid>https://php2560.com/reading/03-reading/</guid>
       <description> Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 7 Jones Chap 5  </description>
     </item>
     
     <item>
       <title>Week 04 Reading</title>
-      <link>/reading/04-reading/</link>
+      <link>https://php2560.com/reading/04-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/04-reading/</guid>
+      <guid>https://php2560.com/reading/04-reading/</guid>
       <description> Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 12-14 Rizzo Chap 4 Jones Chap 7-9 Teetor Chap 13  </description>
     </item>
     
     <item>
       <title>Week 06 Reading</title>
-      <link>/reading/06-reading/</link>
+      <link>https://php2560.com/reading/06-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/06-reading/</guid>
+      <guid>https://php2560.com/reading/06-reading/</guid>
       <description> Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 8 Rizzo Chap 3 Jones Chap 20  </description>
     </item>
     
     <item>
       <title>Week 07 Reading</title>
-      <link>/reading/07-reading/</link>
+      <link>https://php2560.com/reading/07-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/07-reading/</guid>
+      <guid>https://php2560.com/reading/07-reading/</guid>
       <description> Required Reading  The SQL Tutorial for Data Analysis The SQL Course  </description>
     </item>
     
     <item>
       <title>Week 08 Reading</title>
-      <link>/reading/08-reading/</link>
+      <link>https://php2560.com/reading/08-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/08-reading/</guid>
+      <guid>https://php2560.com/reading/08-reading/</guid>
       <description> Required Reading  Text Mining with R  </description>
     </item>
     
     <item>
       <title>Week 09 Reading</title>
-      <link>/reading/09-reading/</link>
+      <link>https://php2560.com/reading/09-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/09-reading/</guid>
+      <guid>https://php2560.com/reading/09-reading/</guid>
       <description> Required Reading  Graphics in R  </description>
     </item>
     
     <item>
       <title>Week 10 Reading</title>
-      <link>/reading/10-reading/</link>
+      <link>https://php2560.com/reading/10-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/10-reading/</guid>
+      <guid>https://php2560.com/reading/10-reading/</guid>
       <description> Required Reading  DataCamp Webscraping in R Beginners Guide to Webscraping in R Primer on Webscraping in R  </description>
     </item>
     
     <item>
       <title>Week 11 Reading</title>
-      <link>/reading/11-reading/</link>
+      <link>https://php2560.com/reading/11-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/11-reading/</guid>
+      <guid>https://php2560.com/reading/11-reading/</guid>
       <description> Required Reading  R Packages: A Beginner&amp;rsquo;s Guide R Packages  </description>
     </item>
     
     <item>
       <title>Week 13 Reading</title>
-      <link>/reading/13-reading/</link>
+      <link>https://php2560.com/reading/13-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/13-reading/</guid>
+      <guid>https://php2560.com/reading/13-reading/</guid>
       <description> Required Reading  Building Shiny Apps - An Interactive Tutorial How to Build a Shiny App Shiny Tutorial  </description>
     </item>
     

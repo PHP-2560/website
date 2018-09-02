@@ -1,7 +1,7 @@
 baseurl = "https://php2560.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "PHP 1560/2560: Statistical Programming in R"
+title = "PHP 1560/2560: Statistical Programming with R"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
