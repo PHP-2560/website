@@ -1,0 +1,48 @@
+<b>Note:</b> Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.
+
+<br><br>
+
+<table class="table" style="max-width:900px;margin-left:auto;margin-right:auto">
+  <tr>
+    <th style="width:15%;text-align:right">Date</th>
+    <th style="width:45%">Lesson</th>
+    <th style="width:15%;text-align:center">Pre-Class</th>
+    <th style="width:15%;text-align:center">Reading</th>
+    <th style="width:15%;text-align:center">In-Class</th>
+  </tr>
+
+  {{ range $.Site.Data.lessons }}
+    {{range . }}
+    <tr>
+      <td align="right">{{ .date }}</td>
+      <td>{{ .title }}</td>
+
+      {{ if .preclass }}
+      <td align="center"><a href="{{ .Site.baseurl }}/preclass/{{ .preclass  }}">
+          <i class="fa fa-laptop  fa-lg"></i></a></td>
+      {{ else }}
+        <td align="center"><font color="f1f1f1">
+          <i class="fa fa-laptop  fa-lg"></i></font></td>
+      {{ end }}
+      
+      {{ if .reading }}
+      <td align="center"><a href="{{ .Site.baseurl }}/reading/{{ .reading  }}">
+          <i class="fa fa-book fa-lg"></i></a></td>
+      {{ else }}
+        <td align="center"><font color="f1f1f1">
+          <i class="fa fa-book fa-lg"></i></font></td>
+      {{ end }}
+
+      {{ if .inclass }}
+      <td align="center"><a href="{{ .Site.baseurl }}/inclass/{{ .inclass }}">
+          <i class="fa fa-code fa-lg"></i></a></td>
+      {{ else }}
+        <td align="center"><font color="f1f1f1">
+          <i class="fa fa-code fa-lg"></i></font></td>
+      {{ end }}
+     
+    </tr>
+    {{ end }}
+  {{ end }}
+
+</table>

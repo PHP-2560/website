@@ -1,0 +1,19 @@
+---
+title: "Week 07 Reading"
+author: "Adam J Sullivan"
+date: "2018-10-24"
+output: 
+  html_document: 
+    css: reading.css
+    theme: yeti
+    toc: true
+    toc_float: true
+    fig_caption: false
+---
+
+
+## Required Reading
+
+- [The SQL Tutorial for Data Analysis](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+- [The SQL Course](http://www.sqlcourse.com/)
+

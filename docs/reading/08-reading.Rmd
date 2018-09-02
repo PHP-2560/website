@@ -1,0 +1,18 @@
+---
+title: "Week 08 Reading"
+author: "Adam J Sullivan"
+date: "2018-10-31"
+output: 
+  html_document: 
+    css: reading.css
+    theme: yeti
+    toc: true
+    toc_float: true
+    fig_caption: false
+---
+
+
+## Required Reading
+
+- [Text Mining with R](http://tidytextmining.com/)
+
