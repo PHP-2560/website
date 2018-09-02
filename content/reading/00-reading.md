@@ -3,6 +3,9 @@ title: "Week 00 Reading"
 ---
 
 
+# First Class is September 12
+
+
 ## Introduction
 Welcome to the class! The first step will be to watch the video below and then to go through the syllabus!
 
