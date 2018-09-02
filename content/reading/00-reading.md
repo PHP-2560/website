@@ -11,7 +11,7 @@ Welcome to the class! The first step will be to watch the video below and then t
 
 
 
-
+<iframe src="https://player.vimeo.com/video/287845431" width="640" height="405" frameborder="0" allowfullscreen></iframe>
 
 ## Syllabus
 
