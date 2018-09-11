@@ -9,6 +9,7 @@ lessons:
   - title: "Syllabus Day / Getting Started"
     reading: "01-reading"
     preclass: "01-preclass"
+    inclass: "01-inclass"
   - title: "Week 02"
     date: "Wed, Sept 19"
   - title: "R Basics / Working with Dplyr and Tidyr"
