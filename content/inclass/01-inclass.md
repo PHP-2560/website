@@ -10,7 +10,8 @@ title: "Week 00 Reading"
 
 1. Go Over Syllabus
 2. Discuss RStudio and Git
-3. Practice using Git. 
+3. Survey
+4. Practice using Git. 
 
 
 ### Syllabus
@@ -23,7 +24,9 @@ We will focus first on the syllabus and make sure all students are clear on what
 4. [Github Site](https://github.com/PHP-2560/website/raw/master/content/syllabus/syllabus.pdf)
 
 
-## Discuss RStudio and Git
+
+
+### Discuss RStudio and Git
 
 We will discuss the three main uses of material in this course:
 
@@ -32,6 +35,11 @@ We will discuss the three main uses of material in this course:
 3. Github
 
 We will discuss how life will be much better through the use of these amazing tools.
+
+
+### Survey
+
+- [Complete this survey](https://goo.gl/forms/QsljFbs2VRB1w8hW2)
 
 ### Practice Using Git
 
@@ -42,6 +50,3 @@ Proceed to [Github Learning Lab](https://lab.github.com). You will need to:
 3. Complete the Modules (This whole course will be done in github and RStudio so make sure you work through everything)
 
 
-### Survey
-
-- [Complete this survey](https://goo.gl/forms/QsljFbs2VRB1w8hW2)
