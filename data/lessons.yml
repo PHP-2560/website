@@ -14,6 +14,7 @@ lessons:
     date: "Wed, Sept 19"
   - title: "R Basics / Working with Dplyr and Tidyr"
     reading: "02-reading"
+    preclass: "02-preclass"
   - title: "Week 03"
     date: "Wed, Sept 26"
   - title: "Control Structures in R"
