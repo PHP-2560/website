@@ -4,7 +4,7 @@ defaultContentLanguage = "en-us"
 title = "PHP 1560/2560: Statistical Programming with R"
 theme = "material"
 #disqusShortname = ""
-# googleAnalytics = ""
+googleAnalytics = "UA-125749501-1"
 paginate = 7
 relativeurls = true
 publishDir = "docs"
@@ -65,7 +65,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "slack"
   name = "Slack"
   pre = "<i class='fab fa-slack fa-lg'></i>"
-  url = "https://php-1560-2560.slack.com/s"
+  url = "https://php-1560-2560.slack.com/"
 
 
 [[menu.footer]]
