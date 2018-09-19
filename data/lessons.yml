@@ -52,7 +52,7 @@ lessons:
     date: "Wed, Nov 21"
   - title: "Package Building in R: Part 1"
     reading: "11-reading.hmtl"
-   - title: "Week 12"
+  - title: "Week 12"
     date: "Wed, Nov 28"
   - title: "Package Building in R: Part 2"  
   - title: "Week 13"
