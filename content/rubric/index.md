@@ -6,7 +6,7 @@ date: 2018-09-01
 ## Grading Rubric for Pre-Class and In-Class work
 
 
-Topic| Excellent: <br> ✓+ coded as +  | Satisfactory: <br> ✓ coded as 0  |Needs work: <br> ✓- coded as - |
+Topic| Excellent: <br> ✓+ coded as 3 |Satisfactory: <br> ✓ coded as 02|Needs work: <br> ✓- coded as - 01   |
 |----| ------ |-------| -----|
 |Coding style| Student has gone beyond what was expected and required, , code is well commented | Coding style lacks refinement and has some errors, but code is readable and has some comments | Many errors in coding style, little attention paid to making the code human readable|
 |Coding strategy| Complicated problem broken down into sub-problems that are individually much simpler. Code is efficient, correct, and minimal. Code uses appropriate data structure (list, data frame, vector/matrix/array). Code checks for common errors  | Code is correct, but could be edited down to leaner code. Some "hacking" instead of using suitable data structure. Some checks for errors. |   Code tackles complicated problem in one big chunk. Code is repetitive and could easily be functionalized. No anticipation of errors. |
