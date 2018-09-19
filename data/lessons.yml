@@ -18,7 +18,7 @@ lessons:
     inclass: "02-inclass"
   - title: "Week 03"
     date: "Wed, Sept 26"
-  - "Joining Data in R"
+  - title: "Joining Data in R"
     reading: "02-reading"
     preclass: "03-preclass"
   - title: "Week 04"
