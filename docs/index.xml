@@ -17,7 +17,7 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://php2560.com/calendar/</guid>
-      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.DateLessonPre-ClassReadingIn-ClassWed, Sept 05Week 00No ClassWed, Sept 12Week 01Syllabus Day / Getting StartedWed, Sept 19Week 02R Basics / Working with Dplyr and TidyrWed, Sept 26Week 03Control Structures in RWeek 04Wed, Oct 03Functions in R: Part 1Wed, Oct 10Week 05Functions in R: Part 2Wed, Oct 17Week 06SimulationsWed, Oct 24Week 07SQLWed, Oct 31Week 08Text Mining in RWed, Nov 07Week 09Graphics in RWed, Nov 14Week 10Webscraping in R Wed, Nov 21Week 11Package Building in R: Part 1Wed, Nov 28Week 12Package Building in R: Part 2Wed, Dec 05Week 13Shiny Apps in R: Part 1Wed, Dec 12Week 14Shiny Apps in R: Part 2 </description>
+      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.DateLessonPre-ClassReadingIn-Class </description>
     </item>
     
     <item>
@@ -41,6 +41,16 @@ Diversity &amp;amp; Inclusiveness: It is my intent that students from all divers
     
     <item>
       <title>Week 00 Reading</title>
+      <link>https://php2560.com/reading/00-reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/reading/00-reading/</guid>
+      <description>First Class is September 12 Introduction Welcome to the class! The first step will be to watch the video below and then to go through the syllabus!
+ Syllabus Please click on the link in the menu for the syllabus. Read through this so that you know what the class is about and then proceed to the Pre Class work for Week 01</description>
+    </item>
+    
+    <item>
+      <title>Week 01 Inclass</title>
       <link>https://php2560.com/inclass/01-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -50,13 +60,12 @@ Diversity &amp;amp; Inclusiveness: It is my intent that students from all divers
     </item>
     
     <item>
-      <title>Week 00 Reading</title>
-      <link>https://php2560.com/reading/00-reading/</link>
+      <title>Week 01 Inclass</title>
+      <link>https://php2560.com/inclass/02-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/reading/00-reading/</guid>
-      <description>First Class is September 12 Introduction Welcome to the class! The first step will be to watch the video below and then to go through the syllabus!
- Syllabus Please click on the link in the menu for the syllabus. Read through this so that you know what the class is about and then proceed to the Pre Class work for Week 01</description>
+      <guid>https://php2560.com/inclass/02-inclass/</guid>
+      <description>Second Class: September 19, 2018 Agenda  Discuss Grading Rubric Discuss RMarkdown Questions In Class work  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
     </item>
     
     <item>
@@ -97,6 +106,16 @@ Flipped Material  Sign into Datacamp Complete Chapter 1 Complete Manipulate Data
       <guid>https://php2560.com/reading/02-reading/</guid>
       <description> Required Reading  Introduction to R  Read whole module on tidy data.  R for Data Science  Read Chap 9 - 16    Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 1-5 Jones Chap 1-2 Teetor Chap 7 Rizzo Chap 1  </description>
+    </item>
+    
+    <item>
+      <title>Week 03 Preclass</title>
+      <link>https://php2560.com/preclass/03-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/03-preclass/</guid>
+      <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
+Flipped Material  Sign into Datacamp Complete Joining Data in R with dplyr course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 03 Copy the readme.md and pre-class-03.</description>
     </item>
     
     <item>

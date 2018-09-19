@@ -111,57 +111,57 @@
 		<div class="main main-raised">
 			<div class="container">
 		  	<div class="section text-left">
-		  	  <h2 class="title">Week 01 Inclass</h2>
+		  	  <h2 class="title">Week 03 Preclass</h2>
 	            
 
-<h1 id="first-class-september-12-2018">First Class:  September 12, 2018</h1>
+<h2 id="introduction">Introduction</h2>
 
-<h2 id="agenda">Agenda</h2>
+<p>We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.</p>
 
-<ol>
-<li>Go Over Syllabus</li>
-<li>Discuss RStudio and Git</li>
-<li>Survey</li>
-<li>Practice using Git.</li>
-</ol>
-
-<h3 id="syllabus">Syllabus</h3>
-
-<p>We will focus first on the syllabus and make sure all students are clear on what this course is and is not. Also we will consider what you can expect to obtain by taking this course. You will need access to the syllabus:</p>
-
-<ol>
-<li><a href="http://php2560.com/syllabus/">On Course Site</a></li>
-<li><a href="https://canvas.brown.edu/files/61596918/download?download_frd=1">PHP 1560 Canvas</a></li>
-<li><a href="https://canvas.brown.edu/files/61596962/download?download_frd=1">PHP 2560 Canvas</a></li>
-<li><a href="https://github.com/PHP-2560/website/raw/master/content/syllabus/syllabus.pdf">Github Site</a></li>
-</ol>
-
-<h3 id="discuss-rstudio-and-git">Discuss RStudio and Git</h3>
-
-<p>We will discuss the three main uses of material in this course:</p>
-
-<ol>
-<li>R</li>
-<li>RStudio</li>
-<li>Github</li>
-</ol>
-
-<p>We will discuss how life will be much better through the use of these amazing tools.</p>
-
-<h3 id="survey">Survey</h3>
+<h2 id="flipped-material">Flipped Material</h2>
 
 <ul>
-<li><a href="https://goo.gl/forms/QsljFbs2VRB1w8hW2">Complete this survey</a></li>
+<li>Sign into <a href="https://www.datacamp.com/">Datacamp</a></li>
+<li>Complete <a href="https://www.datacamp.com/courses/joining-data-in-r-with-dplyr">Joining Data in R with dplyr</a> course.</li>
+<li>Complete these steps for the assignment:
+
+<ul>
+<li>Create a new folder in your pre-class Repository called: <code>Week 03</code></li>
+<li>Copy the <code>readme.md</code> and <code>pre-class-03.Rmd</code> document into this.</li>
+<li>Follow the instructions and commit often.
+<br /></li>
+</ul></li>
 </ul>
 
-<h3 id="practice-using-git">Practice Using Git</h3>
+<h2 id="preview-of-pre-class-problems">Preview of Pre-class Problems</h2>
 
-<p>Proceed to <a href="https://lab.github.com">Github Learning Lab</a>. You will need to:</p>
+<h3 id="getting-started">Getting Started</h3>
+
+<p>We will work with the dataset called <a href="https://github.com/jennybc/gapminder">gapminder</a>, this is a cleaned up version from <a href="http://www.gapminder.org/data/">Gapminder Data</a>. Gapminder contains a lot of great data on all of the nations of the world. We first need to install the gapminder package in R.</p>
+
+<pre><code>install.packages(&quot;gapminder&quot;)
+</code></pre>
+
+<pre><code>library(dplyr)
+library(gapminder)
+gapminder
+</code></pre>
+
+<h3 id="pre-class-problems">Pre-Class Problems</h3>
+
+<p>Use <strong>dplyr</strong> functions to address the following questions:</p>
 
 <ol>
-<li>Sign in</li>
-<li>Give them access to public repositories (You can always revoke this.)</li>
-<li>Complete the Modules (This whole course will be done in github and RStudio so make sure you work through everything)</li>
+<li>How many unique countries are represented per continent?</li>
+<li>Which European nation had the lowest GDP per capita in 1997?</li>
+<li>According to the data available, what was the average life expectancy across each continent in the 1980s?</li>
+<li>What 5 countries have the highest total GDP over all years combined?</li>
+<li>What countries and years had life expectancies of <em>at least</em> 80 years? <em>N.b. only output the columns of interest: country, life expectancy and year (in that order).</em></li>
+<li>What 10 countries have the strongest correlation (in either direction) between life expectancy and per capita GDP?</li>
+<li>Which combinations of continent (besides Asia) and year have the highest average population across all countries? <em>N.b. your output should include all results sorted by highest average population</em>. With what you already know, this one may stump you. See <a href="http://stackoverflow.com/q/27207963/654296">this Q&amp;A</a> for how to <code>ungroup</code> before <code>arrange</code>ing. This also <a href="https://github.com/hadley/dplyr/releases/tag/v0.5.0">behaves differently in more recent versions of dplyr</a>.</li>
+<li>Which three countries have had the most consistent population estimates (i.e. lowest standard deviation) across the years of available data?</li>
+<li>Subset <strong>gm</strong> to only include observations from 1992 and store the results as <strong>gm1992</strong>. What kind of object is this?</li>
+<li>Which observations indicate that the population of a country has <em>decreased</em> from the previous year <strong>and</strong> the life expectancy has <em>increased</em> from the previous year? See <a href="https://cran.r-project.org/web/packages/dplyr/vignettes/window-functions.html">the vignette on window functions</a>.</li>
 </ol>
 
 	      </div>
