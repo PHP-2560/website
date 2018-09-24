@@ -18,6 +18,12 @@ We have started to use RStudio and Github. Now is your time to get more acquaint
     - Copy the `readme.md` and `pre-class-03.Rmd` document into this.
     - Follow the instructions and commit often. 
     
+## In-Class Problems
+
+- [Find the files here](https://github.com/PHP-2560/pre-class/tree/master/Week%2003)
+- Save the `README.md` and `pre-class-03.Rmd` in your pre-class repository under a new folder called `Week 03`. 
+- Remember to commit often. 
+    
 
 ## Preview of Pre-class Problems
 

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preclasses on PHP 1560/2560: Statistical Programming with R</title>
-    <link>/preclass/</link>
+    <link>https://php2560.com/preclass/</link>
     <description>Recent content in Preclasses on PHP 1560/2560: Statistical Programming with R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/preclass/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://php2560.com/preclass/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Week 01 Preclass</title>
-      <link>/preclass/01-preclass/</link>
+      <link>https://php2560.com/preclass/01-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/01-preclass/</guid>
+      <guid>https://php2560.com/preclass/01-preclass/</guid>
       <description>Introduction Welcome to PHP 1560&amp;frasl;2560. This course is all about how to become a proficient programmer in R. In order to become an R Programmer you must actually practice coding and working in R.
 This course is what we call a flipped course. A flipped course is where we have the lecture at home and then in the classroom we focus on hands on learning.
 Each week before class you will have a series of Pre-Class work.</description>
@@ -23,20 +23,20 @@ Each week before class you will have a series of Pre-Class work.</description>
     
     <item>
       <title>Week 02 Preclass</title>
-      <link>/preclass/02-preclass/</link>
+      <link>https://php2560.com/preclass/02-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/02-preclass/</guid>
+      <guid>https://php2560.com/preclass/02-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
 Flipped Material  Sign into Datacamp Complete Chapter 1 Complete Manipulate Data in R Complete the pre-class work.  This link will create a github repository. Clone this on your computer, change the readme as directed, commit, then proceed to work.</description>
     </item>
     
     <item>
       <title>Week 03 Preclass</title>
-      <link>/preclass/03-preclass/</link>
+      <link>https://php2560.com/preclass/03-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/03-preclass/</guid>
+      <guid>https://php2560.com/preclass/03-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
 Flipped Material  Sign into Datacamp Complete Joining Data in R with dplyr course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 03 Copy the readme.md and pre-class-03.</description>
     </item>
