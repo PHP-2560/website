@@ -69,15 +69,6 @@ Diversity &amp;amp; Inclusiveness: It is my intent that students from all divers
     </item>
     
     <item>
-      <title>Week 01 Inclass</title>
-      <link>/inclass/02-inclass/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/inclass/02-inclass/</guid>
-      <description>Second Class: September 19, 2018 Agenda  Discuss Grading Rubric Discuss RMarkdown Questions In Class work  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
-    </item>
-    
-    <item>
       <title>Week 01 Preclass</title>
       <link>/preclass/01-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -95,6 +86,15 @@ Each week before class you will have a series of Pre-Class work.</description>
       
       <guid>/reading/01-reading/</guid>
       <description> Required Reading  Getting Started with R  Read Everything and make sure you install both R and RStudio Explore RStudio  Happy git with R  Read through this and install Git with the instructions here.   </description>
+    </item>
+    
+    <item>
+      <title>Week 02 Inclass</title>
+      <link>/inclass/02-inclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/inclass/02-inclass/</guid>
+      <description>Second Class: September 19, 2018 Agenda  Discuss Grading Rubric Discuss RMarkdown Questions In Class work  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
     </item>
     
     <item>
@@ -118,6 +118,15 @@ Flipped Material  Sign into Datacamp Complete Chapter 1 Complete Manipulate Data
     </item>
     
     <item>
+      <title>Week 03 Inclass</title>
+      <link>/inclass/03-inclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/inclass/03-inclass/</guid>
+      <description>Third Class: September 26, 2018 Agenda  Questions Check on Github and DataCamp In Class Project  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
+    </item>
+    
+    <item>
       <title>Week 03 Preclass</title>
       <link>/preclass/03-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -125,6 +134,16 @@ Flipped Material  Sign into Datacamp Complete Chapter 1 Complete Manipulate Data
       <guid>/preclass/03-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
 Flipped Material  Sign into Datacamp Complete Joining Data in R with dplyr course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 03 Copy the readme.md and pre-class-03.</description>
+    </item>
+    
+    <item>
+      <title>Week 03 Preclass</title>
+      <link>/preclass/04-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/preclass/04-preclass/</guid>
+      <description>Introduction We wil begin to learn how to use R to a much higher level.
+Flipped Material  Sign into Datacamp Complete Chapters 3: Flow Control and Initial Functions from PHP 1560&amp;frasl;2560 Statistical Programing with R. Complete Intermediate R Course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 04 Copy the readme.md and pre-class-04.Rmd document into this. Follow the instructions and commit often.</description>
     </item>
     
     <item>

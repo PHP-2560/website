@@ -64,15 +64,15 @@
   </url>
   
   <url>
-    <loc>/inclass/02-inclass/</loc>
-  </url>
-  
-  <url>
     <loc>/preclass/01-preclass/</loc>
   </url>
   
   <url>
     <loc>/reading/01-reading/</loc>
+  </url>
+  
+  <url>
+    <loc>/inclass/02-inclass/</loc>
   </url>
   
   <url>
@@ -84,7 +84,15 @@
   </url>
   
   <url>
+    <loc>/inclass/03-inclass/</loc>
+  </url>
+  
+  <url>
     <loc>/preclass/03-preclass/</loc>
+  </url>
+  
+  <url>
+    <loc>/preclass/04-preclass/</loc>
   </url>
   
   <url>
