@@ -19,9 +19,9 @@ markup: "mmark"
 <span>Title</span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|-------------------|------------------|------------------|------------------ 
 Instructor        | [Adam J Sullivan](https://vivo.brown.edu/display/asulliv3) | <a href="mailto:adam_sullivan@brown.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/sullivanstatistics" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/sullivanstats" title="Twitter"><i class="fa fa-twitter"></i></a> | Thursday 9-10  | SPH 717
-TAs     | Carolina velasco Molina | <a href="mailto:maria_carolina_velasco_molina@brown.edu@brown.edu" title="email"><i class="fa fa-envelope"></i></a>  | Monday 12-1 and Wednesday 12-1 | TBD
-&nbsp; | Isaac Zhao | <a href="mailto:isaac_zhao@brown.edu" title="email"><i class="fa fa-envelope"></i></a>  | Monday 12-1 and Wednesday 12-1 | TBD
-&nbsp; | Lisha Wang | <a href="mailto:lisha_wang@brown.edu" title="email"><i class="fa fa-envelope"></i></a>  | TBD | TBD
+TAs     |  Isaac Zhao | <a href="mailto:isaac_zhao@brown.edu" title="email"><i class="fa fa-envelope"></i></a>  | Monday 1-3 | SPH Room 259
+&nbsp; | Lisha Wang | <a href="mailto:lisha_wang@brown.edu" title="email"><i class="fa fa-envelope"></i></a>  | Thursday 1-2 | SPH Room 636
+&nbsp; | &nbsp; | &nbsp; | Friday 12:30 - 2:30 | SPH Room 408
  | 
 ### Course Materials
 

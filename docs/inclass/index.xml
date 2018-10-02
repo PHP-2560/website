@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inclasses on PHP 1560/2560: Statistical Programming with R</title>
-    <link>https://php2560.com/inclass/</link>
+    <link>/inclass/</link>
     <description>Recent content in Inclasses on PHP 1560/2560: Statistical Programming with R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://php2560.com/inclass/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/inclass/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Week 01 Inclass</title>
-      <link>https://php2560.com/inclass/01-inclass/</link>
+      <link>/inclass/01-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/01-inclass/</guid>
+      <guid>/inclass/01-inclass/</guid>
       <description>First Class: September 12, 2018 Agenda  Go Over Syllabus Discuss RStudio and Git Survey Practice using Git.  Syllabus We will focus first on the syllabus and make sure all students are clear on what this course is and is not. Also we will consider what you can expect to obtain by taking this course. You will need access to the syllabus:
  On Course Site PHP 1560 Canvas PHP 2560 Canvas Github Site  Discuss RStudio and Git We will discuss the three main uses of material in this course:</description>
     </item>
     
     <item>
       <title>Week 02 Inclass</title>
-      <link>https://php2560.com/inclass/02-inclass/</link>
+      <link>/inclass/02-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/02-inclass/</guid>
+      <guid>/inclass/02-inclass/</guid>
       <description>Second Class: September 19, 2018 Agenda  Discuss Grading Rubric Discuss RMarkdown Questions In Class work  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
     </item>
     
     <item>
       <title>Week 03 Inclass</title>
-      <link>https://php2560.com/inclass/03-inclass/</link>
+      <link>/inclass/03-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/03-inclass/</guid>
+      <guid>/inclass/03-inclass/</guid>
       <description>Third Class: September 26, 2018 Agenda  Questions Check on Github and DataCamp In Class Project  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 Terror Dataset</description>
     </item>
