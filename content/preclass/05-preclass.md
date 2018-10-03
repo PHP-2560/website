@@ -28,7 +28,7 @@ We will begin working with functions in R.
 
 ## Preview of Pre-class Problems
 
-
+git pull origin master
 
 ### Question 1:
 

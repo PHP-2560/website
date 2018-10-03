@@ -1,9 +1,9 @@
 ---
-title: "Week 03 Inclass"
+title: "Week 04 Inclass"
 ---
 
 
-# Third Class:  September 26, 2018
+# Fourth Class:  October 3, 2018
 
 
 ## Agenda
@@ -20,4 +20,24 @@ title: "Week 03 Inclass"
 2. All other members can then click on the link and join the appropriate group. 
 
 [In Class Exercise](https://classroom.github.com/g/1OzB85w5)
+
+
+
+```
+bubblesort <- function(x) {
+
+if (length(x) < 2) return (x)
+
+for(last in length(x):2) {
+for(first in 1:(last - 1)) {
+if(x[first] > x[first + 1]) { 
+save <- x[first]
+x[first] <- x[first + 1]
+x[first + 1] <- save
+}
+}
+}
+return (x)
+}
+```
 

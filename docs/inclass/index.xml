@@ -40,12 +40,13 @@ Terror Dataset</description>
     </item>
     
     <item>
-      <title>Week 03 Inclass</title>
+      <title>Week 04 Inclass</title>
       <link>https://php2560.com/inclass/04-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://php2560.com/inclass/04-inclass/</guid>
-      <description>Third Class: September 26, 2018 Agenda  Questions Discuss Preclass work In Class Project  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
+      <description> Fourth Class: October 3, 2018 Agenda  Questions Discuss Preclass work In Class Project  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
+bubblesort &amp;lt;- function(x) { if (length(x) &amp;lt; 2) return (x) for(last in length(x):2) { for(first in 1:(last - 1)) { if(x[first] &amp;gt; x[first + 1]) { save &amp;lt;- x[first] x[first] &amp;lt;- x[first + 1] x[first + 1] &amp;lt;- save } } } return (x) }  </description>
     </item>
     
   </channel>
