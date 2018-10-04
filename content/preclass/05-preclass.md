@@ -26,38 +26,89 @@ We will begin working with functions in R.
 - Remember to commit often. 
     
 
-## Preview of Pre-class Problems
+Standardizing a variable means subtracting the mean, and then dividing by the standard deviation. Let’s use a loop to standardize the numeric columns in the [Western Collaborative Group Study](https://clinicaltrials.gov/ct2/show/NCT00005174). This study began in 1960 with 3154 men ages 39-59, who were employed in one of 11 California based companies. They were followed until 1969 during this time, 257 of these men developed coronary heart disease (CHD). 
 
-git pull origin master
 
-### Question 1:
+The data has the following variables:
 
-Using a loop, print the integers from 1 to 50. 
 
-### Question 2:
 
-A.  Using a loop, add all the integers between 0 and 1000.
+WCGS has the following variables:
 
-B. Now, add all the EVEN integers between 0 and 1000 (hint: use seq())
+-----------------------------------------------------------
+Name    Description
+------- -------------------------------------------
+id      Subject identification number
 
-C. Now, repeat A and B WITHOUT using a loop.
+age     Age in years
 
-### Question 3:
+height  Height in inches
 
-Here is a dataframe of survey data containing 5 questions :
+weight  Weight in lbs.
 
-```{r, eval=FALSE}
-survey <- data.frame(
-                     "participant" = c(1, 2, 3, 4, 5, 6),
-                     "q1" = c(5, 3, 2, 7, 11, 0),
-                     "q2" = c(4, 2, 2, 5, -10, 99),
-                     "q3" = c(-4, -3, 4, 2, 9, 10),
-                     "q4" = c(-30, 5, 2, 23, 4, 2),
-                     "q5" = c(88, 4, -20, 2, 4, 2)
-                     )
-```
-The response to each question should be an integer between 1 and 5. Obviously, we have some bad values in the dataframe. The goal of this problem is to fix them.
+sbp     Systolic blood pressure in mm 
 
-A. Using a loop, create a new dataframe called survey.clean where all the invalid values (those that are not integers between 1 and 5) are set to NA.
+dbp     Diastolic blood pressure in mm Hg
 
-B. Now, again using a loop, add a new column to the dataframe called “invalid.answers” that indicates, for each participant, how many bad answers they gave.
+chol    Fasting serum cholesterol in mm 
+
+behpat  Behavior
+
+  1       A1
+
+  2       A2
+
+  3       B3
+
+  4       B4
+
+ncigs   Cigarettes per day
+
+dibpat  Behavior
+
+1       type A
+
+2       type B
+
+chd69   Coronary heart disease
+
+1       Yes
+
+0       no
+
+typechd Type of CHD
+
+1       myocardial infarction or death
+
+2       silent myocardial infarction
+
+3       angina perctoris
+
+time169 Time of CHD event or end of follow-up
+
+arcus   Arcus senilis
+
+0       absent
+
+1       present
+
+bmi     Body Mass Index
+-----------------------------------------------------------
+
+
+
+
+### Question 1: Standardize Function
+
+A. Create a function called standardize.me() that takes a numeric vector as an argument, and returns the standardized version of the vector. 
+B. Assign all the numeric columns of the original WCGS dataset to a new dataset called WCGS.new.
+C. Using a loop and your new function, standardize all the variables WCGS.new dataset.
+D. What should the mean and standard deviation of all your new standardized variables be? Test your prediction by running a loop
+
+
+
+
+### Question 2: Looping to Calculate
+
+A. Using a loop, calculate the mean weight of the subjects separated by the type of CHD they have.
+B. Now do the same thing, but now don’t use a loop
