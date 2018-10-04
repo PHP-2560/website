@@ -153,41 +153,85 @@
 <br /></li>
 </ul>
 
-<h2 id="preview-of-pre-class-problems">Preview of Pre-class Problems</h2>
+<p>Standardizing a variable means subtracting the mean, and then dividing by the standard deviation. Let’s use a loop to standardize the numeric columns in the <a href="https://clinicaltrials.gov/ct2/show/NCT00005174">Western Collaborative Group Study</a>. This study began in 1960 with 3154 men ages 39-59, who were employed in one of 11 California based companies. They were followed until 1969 during this time, 257 of these men developed coronary heart disease (CHD).</p>
 
-<p>git pull origin master</p>
+<p>The data has the following variables:</p>
 
-<h3 id="question-1">Question 1:</h3>
+<p>WCGS has the following variables:</p>
 
-<p>Using a loop, print the integers from 1 to 50.</p>
+<hr />
 
-<h3 id="question-2">Question 2:</h3>
+<p>Name    Description</p>
 
-<p>A.  Using a loop, add all the integers between 0 and 1000.</p>
+<hr />
 
-<p>B. Now, add all the EVEN integers between 0 and 1000 (hint: use seq())</p>
+<p>id      Subject identification number</p>
 
-<p>C. Now, repeat A and B WITHOUT using a loop.</p>
+<p>age     Age in years</p>
 
-<h3 id="question-3">Question 3:</h3>
+<p>height  Height in inches</p>
 
-<p>Here is a dataframe of survey data containing 5 questions :</p>
+<p>weight  Weight in lbs.</p>
 
-<pre><code class="language-r, eval=FALSE">survey &lt;- data.frame(
-                     &quot;participant&quot; = c(1, 2, 3, 4, 5, 6),
-                     &quot;q1&quot; = c(5, 3, 2, 7, 11, 0),
-                     &quot;q2&quot; = c(4, 2, 2, 5, -10, 99),
-                     &quot;q3&quot; = c(-4, -3, 4, 2, 9, 10),
-                     &quot;q4&quot; = c(-30, 5, 2, 23, 4, 2),
-                     &quot;q5&quot; = c(88, 4, -20, 2, 4, 2)
-                     )
-</code></pre>
+<p>sbp     Systolic blood pressure in mm</p>
 
-<p>The response to each question should be an integer between 1 and 5. Obviously, we have some bad values in the dataframe. The goal of this problem is to fix them.</p>
+<p>dbp     Diastolic blood pressure in mm Hg</p>
 
-<p>A. Using a loop, create a new dataframe called survey.clean where all the invalid values (those that are not integers between 1 and 5) are set to NA.</p>
+<p>chol    Fasting serum cholesterol in mm</p>
 
-<p>B. Now, again using a loop, add a new column to the dataframe called “invalid.answers” that indicates, for each participant, how many bad answers they gave.</p>
+<p>behpat  Behavior</p>
+
+<p>1       A1</p>
+
+<p>2       A2</p>
+
+<p>3       B3</p>
+
+<p>4       B4</p>
+
+<p>ncigs   Cigarettes per day</p>
+
+<p>dibpat  Behavior</p>
+
+<p>1       type A</p>
+
+<p>2       type B</p>
+
+<p>chd69   Coronary heart disease</p>
+
+<p>1       Yes</p>
+
+<p>0       no</p>
+
+<p>typechd Type of CHD</p>
+
+<p>1       myocardial infarction or death</p>
+
+<p>2       silent myocardial infarction</p>
+
+<p>3       angina perctoris</p>
+
+<p>time169 Time of CHD event or end of follow-up</p>
+
+<p>arcus   Arcus senilis</p>
+
+<p>0       absent</p>
+
+<p>1       present</p>
+
+<h2 id="bmi-body-mass-index">bmi     Body Mass Index</h2>
+
+<h3 id="question-1-standardize-function">Question 1: Standardize Function</h3>
+
+<p>A. Create a function called standardize.me() that takes a numeric vector as an argument, and returns the standardized version of the vector.
+B. Assign all the numeric columns of the original WCGS dataset to a new dataset called WCGS.new.
+C. Using a loop and your new function, standardize all the variables WCGS.new dataset.
+D. What should the mean and standard deviation of all your new standardized variables be? Test your prediction by running a loop</p>
+
+<h3 id="question-2-looping-to-calculate">Question 2: Looping to Calculate</h3>
+
+<p>A. Using a loop, calculate the mean weight of the subjects separated by the type of CHD they have.
+B. Now do the same thing, but now don’t use a loop</p>
 
 	      </div>
       </div>
