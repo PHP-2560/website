@@ -20,7 +20,7 @@ This Class will be working with Functions again. This means there is little new 
 ## In-Class Problems
 
 - [Find the files here](https://github.com/PHP-2560/pre-class/tree/master/Week%2006)
-- Save the `README.md` and `pre-class-05.Rmd` in your pre-class repository under a new folder called `Week 06`. 
+- Save the `README.md` and `pre-class-06.Rmd` in your pre-class repository under a new folder called `Week 06`. 
 - Remember to commit often. 
     
 
