@@ -33,6 +33,7 @@ lessons:
   - title: "Functions in R: Part 1"
     reading: "04-reading"
     preclass: "05-preclass"
+    inclass: "05-inclass"
   - title: "Week 06"
     date: "Wed, Oct 17"    
   - title: "Functions in R: Part 2"

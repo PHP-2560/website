@@ -3,140 +3,144 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://php2560.com/calendar/</loc>
+    <loc>/calendar/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://php2560.com/rubric/</loc>
+    <loc>/rubric/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://php2560.com/syllabus/</loc>
+    <loc>/syllabus/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/archives/</loc>
+    <loc>/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://php2560.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://php2560.com/inclass/</loc>
+    <loc>/inclass/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://php2560.com/</loc>
+    <loc>/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://php2560.com/policies/</loc>
+    <loc>/policies/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/preclass/</loc>
+    <loc>/preclass/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/</loc>
+    <loc>/reading/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://php2560.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/00-reading/</loc>
+    <loc>/reading/00-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/inclass/01-inclass/</loc>
+    <loc>/inclass/01-inclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/preclass/01-preclass/</loc>
+    <loc>/preclass/01-preclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/01-reading/</loc>
+    <loc>/reading/01-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/inclass/02-inclass/</loc>
+    <loc>/inclass/02-inclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/preclass/02-preclass/</loc>
+    <loc>/preclass/02-preclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/02-reading/</loc>
+    <loc>/reading/02-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/inclass/03-inclass/</loc>
+    <loc>/inclass/03-inclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/preclass/03-preclass/</loc>
+    <loc>/preclass/03-preclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/03-reading/</loc>
+    <loc>/reading/03-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/inclass/04-inclass/</loc>
+    <loc>/inclass/04-inclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/preclass/04-preclass/</loc>
+    <loc>/preclass/04-preclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/04-reading/</loc>
+    <loc>/reading/04-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/preclass/05-preclass/</loc>
+    <loc>/inclass/05-inclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/06-reading/</loc>
+    <loc>/preclass/05-preclass/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/07-reading/</loc>
+    <loc>/reading/06-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/08-reading/</loc>
+    <loc>/reading/07-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/09-reading/</loc>
+    <loc>/reading/08-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/10-reading/</loc>
+    <loc>/reading/09-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/11-reading/</loc>
+    <loc>/reading/10-reading/</loc>
   </url>
   
   <url>
-    <loc>https://php2560.com/reading/13-reading/</loc>
+    <loc>/reading/11-reading/</loc>
+  </url>
+  
+  <url>
+    <loc>/reading/13-reading/</loc>
   </url>
   
 </urlset>

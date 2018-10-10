@@ -35,65 +35,39 @@ The data has the following variables:
 
 WCGS has the following variables:
 
------------------------------------------------------------
-Name    Description
-------- -------------------------------------------
-id      Subject identification number
 
-age     Age in years
+{.table .table-condensed .table-striped .text-left}
+| <span></span>     | <span></span> | 
+| ----- | ------------ |
+| id   |    Subject identification number | 
+|  age    |   Age in years | 
+|  height  |  Height in inches | 
+|  weight   | Weight in lbs. | 
+|  sbp   |    Systolic blood pressure in mm   | 
+|  dbp   |    Diastolic blood pressure in mm Hg | 
+| chol   |   Fasting serum cholesterol in mm  | 
+| behpat |   Behavior | 
+| 1      |   A1 | 
+|   2      |   A2 | 
+|   3    |     B3 | 
+|   4    |     B4 | 
+| ncigs  |   Cigarettes per day | 
+| dibpat |   Behavior | 
+| 1      |   type A | 
+| 2        | type B | 
+| chd69  |   Coronary heart disease | 
+| 1      |   Yes | 
+| 0    |     no | 
+| typechd |  Type of CHD  | 
+|  1     |    myocardial infarction or death  | 
+| 2    |     silent myocardial infarction | 
+| 3      |   angina perctoris | 
+| time169 |  Time of CHD event or end of follow-up  | 
+| arcus  |   Arcus senilis | 
+| 0      |   absent |  
+| 1    |     present | 
+| bmi    |   Body Mass Index | 
 
-height  Height in inches
-
-weight  Weight in lbs.
-
-sbp     Systolic blood pressure in mm 
-
-dbp     Diastolic blood pressure in mm Hg
-
-chol    Fasting serum cholesterol in mm 
-
-behpat  Behavior
-
-  1       A1
-
-  2       A2
-
-  3       B3
-
-  4       B4
-
-ncigs   Cigarettes per day
-
-dibpat  Behavior
-
-1       type A
-
-2       type B
-
-chd69   Coronary heart disease
-
-1       Yes
-
-0       no
-
-typechd Type of CHD
-
-1       myocardial infarction or death
-
-2       silent myocardial infarction
-
-3       angina perctoris
-
-time169 Time of CHD event or end of follow-up
-
-arcus   Arcus senilis
-
-0       absent
-
-1       present
-
-bmi     Body Mass Index
------------------------------------------------------------
 
 
 
