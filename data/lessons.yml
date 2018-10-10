@@ -37,6 +37,8 @@ lessons:
   - title: "Week 06"
     date: "Wed, Oct 17"    
   - title: "Functions in R: Part 2"
+    reading: "05-reading"
+    preclass: "06-preclass"
   - title: "Week 07"
     date: "Wed, Oct 24"
   - title: "Simulations"
