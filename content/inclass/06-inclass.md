@@ -23,9 +23,13 @@ You may need to just use these functions directly:
 
 ```
 omit.case <- function(the_data,omitted_point) {
-  ifelse(dim(as.data.frame(the_data))[2]==1, data.omit<-the_data[-omitted_point], data.omit<-the_data[-omitted_point,])
-  return(data.omit)# This should take the data and omit one point at a time and return the new data
-  }
+    # This should take the data and omit one point at a time and return the new data
+        if(is.null(dim(the_data))) {
+          return(the_data[-omitted_point])
+        } else {
+          return(the_data[-omitted_point,])
+        }
+      }
 ```
 
 

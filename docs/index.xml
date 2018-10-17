@@ -204,7 +204,7 @@ Flipped Material  Sign into Datacamp Complete Chapters 3: Flow Control and Initi
       <guid>https://php2560.com/inclass/06-inclass/</guid>
       <description>sixth Class: October 17, 2018 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 You may need to just use these functions directly:
-omit.case &amp;lt;- function(the_data,omitted_point) { ifelse(dim(as.data.frame(the_data))[2]==1, data.</description>
+omit.case &amp;lt;- function(the_data,omitted_point) { # This should take the data and omit one point at a time and return the new data if(is.</description>
     </item>
     
     <item>
