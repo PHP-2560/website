@@ -36,6 +36,6 @@ omit.case <- function(the_data,omitted_point) {
 
 ```
 omit_and_est <- function(omit) {
-  estimator(omit.case(data,omit)) # This function should take the output of omit.case and use it as input for the estimator
+  estimator(omit.case(the_data,omit)) # This function should take the output of omit.case and use it as input for the estimator
 }
 ```
