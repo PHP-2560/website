@@ -18,3 +18,20 @@ title: "Week 05 Inclass"
 
 [In Class Exercise](https://classroom.github.com/g/QAZJmnfP)
 
+
+You may need to just use these functions directly:
+
+```
+omit.case <- function(the_data,omitted_point) {
+  ifelse(dim(as.data.frame(the_data))[2]==1, data.omit<-the_data[-omitted_point], data.omit<-the_data[-omitted_point,])
+  return(data.omit)# This should take the data and omit one point at a time and return the new data
+  }
+```
+
+```
+
+```
+omit_and_est <- function(omit) {
+  estimator(omit.case(data,omit)) # This function should take the output of omit.case and use it as input for the estimator
+}
+```
