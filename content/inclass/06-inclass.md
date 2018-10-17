@@ -28,7 +28,7 @@ omit.case <- function(the_data,omitted_point) {
   }
 ```
 
-```
+
 
 ```
 omit_and_est <- function(omit) {
