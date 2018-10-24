@@ -50,6 +50,7 @@ lessons:
     date: "Wed, Oct 31"
   - title: "SQL"
     reading: "07-reading"
+    preclass: "08-preclass"
   - title: "Week 09"
     date: "Wed, Nov 07"
   - title: "Text Mining in R"
