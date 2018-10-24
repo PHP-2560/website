@@ -45,6 +45,7 @@ lessons:
   - title: "Simulations"
     reading: "06-reading"
     preclass: "07-preclass"
+    inclass: "07-inclass"
   - title: "Week 08"
     date: "Wed, Oct 31"
   - title: "SQL"

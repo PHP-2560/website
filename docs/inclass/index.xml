@@ -69,5 +69,15 @@ You may need to just use these functions directly:
 omit.case &amp;lt;- function(the_data,omitted_point) { # This should take the data and omit one point at a time and return the new data if(is.</description>
     </item>
     
+    <item>
+      <title>Week 07 Inclass</title>
+      <link>https://php2560.com/inclass/07-inclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/inclass/07-inclass/</guid>
+      <description>Seventh Class: October 24, 2018 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  Please click in order to get your github repository with the assignment and starter code.
+You will not turn anything in but by Friday, October 25 at 11:59pm you will no longer be able to commit.</description>
+    </item>
+    
   </channel>
 </rss>
