@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" sizes="76x76" href="../img/favicon.png">
+	<link rel="icon" type="image/png" href="../img/favicon.png">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>PHP 1560/2560: Statistical Programming with R</title>
+
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://cdn.rawgit.com/gaborcsardi/r-font/master/rlogo.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/v4-shims.js"></script>
+
+	
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/material-kit.css" rel="stylesheet"/>
+</head>
+
+  
+<body class="profile-page">
+  	<nav class="navbar navbar-transparent navbar-fixed-top navbar-color-on-scroll">
+	    	<div class="container">
+        	
+        	<div class="navbar-header">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
+            		<span class="sr-only">Toggle navigation</span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+        		</button>
+        		<a class="navbar-brand" href="../">PHP 1560/2560: Statistical Programming with R</a>
+        	</div>
+
+        	<div class="collapse navbar-collapse" id="navigation-example">
+        		<ul class="nav navbar-nav navbar-right">
+      
+        
+
+        <li class="nav-item">
+          <a href="../">
+            <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+            <span>Home</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="../syllabus">
+            <i class="material-icons">gavel</i>
+            <span>Syllabus</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="../calendar">
+            <i class="material-icons">date_range</i>
+            <span>Calendar</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="https://github.com/PHP-2560">
+            <i class='fab fa-github fa-lg'></i>
+            <span>GitHub</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="https://php-1560-2560.slack.com/">
+            <i class='fab fa-slack fa-lg'></i>
+            <span>Slack</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="../rubric">
+            <i class='fab fa-gavel fa-lg'></i>
+            <span>Rubric</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="../project">
+            <i class='fa fa-code fa-lg'></i>
+            <span>Projects</span>
+          </a>
+        </li>
+        
+      
+        		</ul>
+        	</div>
+    	</div>
+    </nav>
+  <div class="wrapper">
+    <div class="header header-filter" style="background-image: url('/img/background.png');">
+    </div>
+		<div class="main main-raised">
+			<div class="container">
+		  	<div class="section text-left">
+		  	  <h2 class="title">Final Projects!</h2>
+	            
+
+<h2 id="overview">Overview</h2>
+
+<p>The goal of your final two projects are to merge everything that you have learned and to create something useful for another researcher or future student to use.</p>
+
+<p>It is very important that we can create tools and present and display material for audiences with diverse backgrounds to engage in. We need to take the code and the skills we have and put them to use for an audience that does not have the same skills.</p>
+
+<h2 id="project-1-r-package">Project 1: R Package</h2>
+
+<h3 id="project-guidelines">Project Guidelines</h3>
+
+<h4 id="group-aspect">Group Aspect</h4>
+
+<ul>
+<li>Come up with a group R Package</li>
+<li>Clearly assign roles for individuals
+
+<ul>
+<li>Functions</li>
+<li>Vignettes</li>
+<li>File layout</li>
+</ul></li>
+<li>Make sure things are cohesive</li>
+<li>Keep on track with Package</li>
+<li>All pieces should fit well together</li>
+</ul>
+
+<h4 id="individual-aspect">Individual Aspect</h4>
+
+<ul>
+<li>Work to complete your functions.</li>
+<li>Comment and make sure you parts are neat and well organized.</li>
+<li>Make sure you commit your work so that you can verify what you have done.</li>
+</ul>
+
+<ol>
+<li>11/21/2018-11/28/2018
+
+<ul>
+<li>For the second part of the your work, you will be expected to start learning about R Packages:</li>
+<li><a href="https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/">Hilary Parker Tutorial</a></li>
+<li><a href="https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio">RStudio Package Creation</a></li>
+<li><a href="http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf">MIT Package Step-by-Step Guide</a></li>
+<li><a href="http://kbroman.org/pkg_primer/">Karl Broman Package Primer</a></li>
+<li><a href="http://r-pkgs.had.co.nz/">Hadley Wickham Package Creation Book</a></li>
+<li>Getting Ready for Your Package</li>
+<li>You will be working in groups of 2-3 for this task.</li>
+<li>Identify your group</li>
+<li>Create your team and start a <a href="https://classroom.github.com/g/wxbg5R5K">repository</a></li>
+<li>Create a<code>README.md</code> outlining what your package will be and what each member of the group will do for this package.</li>
+</ul></li>
+<li>11/28/2018
+
+<ul>
+<li>Bring your package to Class so we can work on it.</li>
+</ul></li>
+<li>12/16/2018
+
+<ul>
+<li>Final package due to me.</li>
+<li>Provide an explanation of how it is to be used and discussing the creation of it.</li>
+<li>Detail the parts of the app you did individually.</li>
+</ul></li>
+</ol>
+
+<h4 id="rubric">Rubric</h4>
+
+<table>
+<thead>
+<tr>
+<th>Topic</th>
+<th>Excellent: <br> ✓+ coded as +</th>
+<th>Satisfactory: <br> ✓ coded as 0</th>
+<th>Needs work: <br> ✓- coded as -</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Coding style</td>
+<td>Student has gone beyond what was expected and required, , code is well commented</td>
+<td>Coding style lacks refinement and has some errors, but code is readable and has some comments</td>
+<td>Many errors in coding style, little attention paid to making the code human readable</td>
+</tr>
+
+<tr>
+<td>Coding strategy</td>
+<td>Complicated problem broken down into sub-problems that are individually much simpler. Code is efficient, correct, and minimal. Code uses appropriate data structure (list, data frame, vector/matrix/array). Code checks for common errors</td>
+<td>Code is correct, but could be edited down to leaner code. Some &ldquo;hacking&rdquo; instead of using suitable data structure. Some checks for errors.</td>
+<td>Code tackles complicated problem in one big chunk. Code is repetitive and could easily be functionalized. No anticipation of errors.</td>
+</tr>
+
+<tr>
+<td>Presentation: graphs</td>
+<td>Graph(s) carefully tuned for desired purpose. One graph illustrates one point</td>
+<td>Graph(s) well chosen, but with a few minor problems: inappropriate aspect ratios, poor labels.</td>
+<td>Graph(s) poorly chosen to support questions.</td>
+</tr>
+
+<tr>
+<td>Presentation: tables</td>
+<td>Table(s) carefully constructed to make it easy to perform important comparisons. Careful styling highlights important features.</td>
+<td>Table(s) generally appropriate but possibly some minor formatting deficiencies.</td>
+<td>Table(s) with too many, or inconsistent, decimal places. Table(s) not appropriate for questions and findings. Major display problems.</td>
+</tr>
+
+<tr>
+<td>Achievement, mastery, cleverness, creativity</td>
+<td>Student has gone beyond what was expected and required, e.g., extraordinary effort, additional tools not addressed by this course, unusually sophisticated application of tools from course.</td>
+<td>Tools and techniques from the course are applied very competently and, perhaps,somewhat creatively. Chosen task was acceptable, but fairly conservative in ambition.</td>
+<td>Student does not display the expected level of mastery of the tools and techniques in this course. Chosen task was too limited in scope.</td>
+</tr>
+
+<tr>
+<td>Ease of access for instructor, compliance with course conventions for submitted work</td>
+<td>Access as easy as possible, code runs!</td>
+<td>Satisfactory</td>
+<td>Not an earnest effort to reduce friction and comply with conventions  and/or code does not run</td>
+</tr>
+
+<tr>
+<td>Package Runs</td>
+<td>Package installs flawlessly</td>
+<td>Package installs but with some minor things needed</td>
+<td>Package does not run or requires too much to work.</td>
+</tr>
+
+<tr>
+<td>Overall Feel of Package</td>
+<td>Package is easy to navigate due to amazing documentation.</td>
+<td>Package is able to be navigated but not as much documentation to make it easier.</td>
+<td>Package needs to be explored with little guidance available</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="project-2-shiny-project">Project 2: Shiny Project</h2>
+
+<h3 id="individual-aspect-1">Individual Aspect</h3>
+
+<ol>
+<li>Go to the <a href="http://shiny.rstudio.com/">Shiny</a> website.
+
+<ul>
+<li>Explore the <a href="http://shiny.rstudio.com/gallery/">gallery</a> of Project ideas.</li>
+<li>Follow the <a href="http://shiny.rstudio.com/tutorial/">Tutorial</a></li>
+<li>Go through this <a href="http://deanattali.com/blog/building-shiny-apps-tutorial/">Walkthrough by Dean Attali</a></li>
+<li>To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a (z) value and gives a p-value.
+
+<br /></li>
+</ul></li>
+</ol>
+
+<h3 id="group-aspect-1">Group Aspect</h3>
+
+<ol>
+<li>As a group your first task will be to come up with an idea for a Shiny app and to write the code for this. In order to facilitate this more I will provide some structure.
+
+<ul>
+<li>Your app must allow a researcher to use their own inputs.</li>
+<li>Your app must display some type of interactive user interface aspects.
+
+<ul>
+<li>For example - <a href="https://www.sullivanstatistics.com/shiny/normcalc/">Normal Calculator</a>: In this app I created depending on where the researcher wants to shade the normal distribution different boxes will pop up after the researcher makes a choice.</li>
+</ul></li>
+<li>You app must display graphical as well as statistical output.</li>
+<li>Your app must not be created copying code from an example app that is out there.
+
+<ul>
+<li>We want to make sure you are not plagiarizing. In the Normal Calculator app I provided, it appears similar to the DistCalc app from the shiny gallery, however the code behind it comes from my own code and graphing work that I have done in the past. None was copied or pasted from another Shiny app.</li>
+</ul></li>
+<li>Your app must function properly and be useful.</li>
+<li>Your app must run quickly and not be bulky.</li>
+<li>Your app should be easy to use or contain detailed instructions.</li>
+</ul></li>
+<li>Go through all of the <a href="https://github.com/php2560/Final_Projects">past Shiny Apps created in PHP 2560</a>
+
+<ul>
+<li>Go into the code and download all of the necessary packages to make them run.</li>
+<li>Run them using the commands in the README.md file of the repository.</li>
+<li>You can use the code from these to help you.</li>
+</ul></li>
+</ol>
+
+<h2 id="dates-of-importance">Dates of Importance</h2>
+
+<ol>
+<li>11/28/2018 - 12/05/2018
+
+<ul>
+<li>During this week you will be learning how to write a shiny app.</li>
+<li>Your calculator must be in a single file format.</li>
+<li>Must be done individually.</li>
+<li>Form a group of 3-4 people and have an idea of what kind of app you want to create by this date.<br /></li>
+<li>Provide me with an explanation of:
+
+<ul>
+<li>What your app will do?</li>
+<li>How do you see it being used?</li>
+<li>What types of options might you try to included for the user.</li>
+</ul></li>
+<li>If you are struggling with ideas <a href="../ideas">check this out</a></li>
+<li><a href="https://classroom.github.com/group-assignment-invitations/b77f48fc4b1da879109937becd702531">Project Starter Code</a></li>
+</ul></li>
+<li>12/05/2018 and 12/12/2018
+
+<ul>
+<li>Bring a rough copy of your app to class.</li>
+<li>We will spend the entire class working on Apps.</li>
+</ul></li>
+<li>12/16/2018 at 9:00 AM
+
+<ul>
+<li>Each group will have turned in a video presentation running through and explaining their app.</li>
+<li>Presentations must be concise and display usage of the app.</li>
+</ul></li>
+<li>12/21/2017
+
+<ul>
+<li>Based on your presentation, we will make some suggestions on final improvements and then you will have to time work on them before the final product.</li>
+<li>Final App due to me.</li>
+<li>You must have your final app in either a 1 or 2 file format.</li>
+<li>Provide an explanation of how it is to be used and discussing the creation of it.</li>
+<li>Detail the parts of the app you did individually.</li>
+<li>Submit form on grading your group members work and contribution to the project.</li>
+</ul></li>
+</ol>
+
+<h2 id="rubric-for-shiny-project">Rubric For Shiny Project</h2>
+
+<table>
+<thead>
+<tr>
+<th>Grade Category</th>
+<th>Points</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Tutorial/ Simple App</td>
+<td>10</td>
+</tr>
+
+<tr>
+<td>App Idea and Explanation</td>
+<td>10</td>
+</tr>
+
+<tr>
+<td>App and Presentation</td>
+<td>70</td>
+</tr>
+
+<tr>
+<td>Group Evaluations</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+<p>Recall Rubric From Above.</p>
+
+	      </div>
+      </div>
+		</div>
+    <footer class="footer">
+  <div class="container">
+	  <nav class="pull-left">
+	    <ul>
+	    
+        
+
+        <li>
+          <a href="https://www.brown.edu/academics/public-health/biostatistics/"><i class="button-icon fa fa-2x fa-map-marker"></i> Brown Biostats</a>
+        </li>
+        
+      
+        
+
+        <li>
+          <a href="https://rstudio.cloud/"><i class="icon-rlogo" style="font-size:150%"></i> RStudio</a>
+        </li>
+        
+      
+        
+
+        <li>
+          <a href="https://github.com/PHP-2560"><i class="button-icon fa fa-2x fa-github"></i> GitHub</a>
+        </li>
+        
+      
+        
+
+        <li>
+          <a href="../"> </a>
+        </li>
+        
+      
+      </ul>
+    </nav>
+	  <div class="copyright pull-right">
+	    <img src="../img/cc-by.svg"/>
+	  </div>
+  </div>
+</footer>
+	</div>
+</body>
+
+			
+
+	
+	<script src="../js/jquery.min.js" type="text/javascript"></script>
+	<script src="../js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="../js/material.min.js"></script>
+
+	
+	<script src="../js/nouislider.min.js" type="text/javascript"></script>
+
+	
+	<script src="../js/bootstrap-datepicker.js" type="text/javascript"></script>
+
+	
+	<script src="../js/material-kit.js" type="text/javascript"></script>
+
+</html>

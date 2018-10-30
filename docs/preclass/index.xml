@@ -82,7 +82,7 @@ Flipped Material  Sign into Datacamp Complete Chapters 5: Simulations from PHP 1
     </item>
     
     <item>
-      <title>Week 07 Preclass</title>
+      <title>Week 08 Preclass</title>
       <link>https://php2560.com/preclass/08-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -93,6 +93,43 @@ Flipped Material Videos: Brown has access to lynda.com. Sign up for your access:
  SQL Essential Training  COMPLETE THE ENTIRE LYNDA COURSE!!!
 Practice: Once this is done practice the basic statements using:
  SQL Try IT  </description>
+    </item>
+    
+    <item>
+      <title>Week 09 Preclass</title>
+      <link>https://php2560.com/preclass/09-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/09-preclass/</guid>
+      <description> Flipped Material  Sign into Datacamp Complete Working with Web Data in R Complete Webscraping in R from PHP 2560.  Pre-Class Problems  Find the files here Save the README.md and pre-class-09.Rmd in your pre-class repository under a new folder called Week 09. Remember to commit often. All work is due prior to class at 10:30am.  </description>
+    </item>
+    
+    <item>
+      <title>Week 12 Preclass</title>
+      <link>https://php2560.com/preclass/12-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/12-preclass/</guid>
+      <description>R Package Building Pre-Class  For the second part of the your work, you will be expected to start learning about R Packages:  Hilary Parker Tutorial RStudio Package Creation MIT Package Step-by-Step Guide Karl Broman Package Primer Hadley Wickham Package Creation Book Getting Ready for Your Package You will be working in groups of 2-3 for this task. Identify your group Create your team and start a repository Create aREADME.</description>
+    </item>
+    
+    <item>
+      <title>Week 13 Preclass</title>
+      <link>https://php2560.com/preclass/10-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/10-preclass/</guid>
+      <description>Flipped Material  Sign into Datacamp Complete String Mainipulation in R with stringr. Complete Sentiment Analysis in R the Tidy Way  Problem Set There will be no specific assignment for but make sure you can complete the following type of problems:
+Creating strings, counting characters  Make a string with your last name, and (programmatically) count the number of characters. Make a vector of strings of length 2, with your first name and then last name, and count the number of characters in each.</description>
+    </item>
+    
+    <item>
+      <title>Week 13 Preclass</title>
+      <link>https://php2560.com/preclass/13-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/13-preclass/</guid>
+      <description>Shiny App Building Pre-Class Individual Aspect  Go to the Shiny website.  Explore the gallery of Project ideas. Follow the Tutorial Go through this Walkthrough by Dean Attali To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a (z) value and gives a p-value.</description>
     </item>
     
   </channel>

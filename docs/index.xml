@@ -17,7 +17,7 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://php2560.com/calendar/</guid>
-      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.DateLessonPre-ClassReadingIn-ClassWed, Sept 05Week 00No ClassWed, Sept 12Week 01Syllabus Day / Getting StartedWed, Sept 19Week 02R Basics / Working with Dplyr and TidyrWed, Sept 26Week 03Joining Data in RWed, Oct 3Week 04Control Structures in RWed, Oct 10Week 05Functions in R: Part 1Wed, Oct 17Week 06Functions in R: Part 2Wed, Oct 24Week 07SimulationsWed, Oct 31Week 08SQLWed, Nov 07Week 09Text Mining in RWed, Nov 14Week 10Graphics in RWed, Nov 21Week 11Package Building in R: Part 1Wed, Nov 28Week 12Package Building in R: Part 2Wed, Dec 05Week 13Webscraping in R Wed, Dec 12Week 14Shiny Apps in R </description>
+      <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.DateLessonPre-ClassReadingIn-ClassWed, Sept 05Week 00No ClassWed, Sept 12Week 01Syllabus Day / Getting StartedWed, Sept 19Week 02R Basics / Working with Dplyr and TidyrWed, Sept 26Week 03Joining Data in RWed, Oct 3Week 04Control Structures in RWed, Oct 10Week 05Functions in R: Part 1Wed, Oct 17Week 06Functions in R: Part 2Wed, Oct 24Week 07SimulationsWed, Oct 31Week 08SQLWed, Nov 07Week 09Webscraping in R Wed, Nov 14Week 10Text Mining in RWed, Nov 21Week 11Graphics in RWed, Nov 28Week 12Package Building in R: Part 1Wed, Dec 05Week 13Package Building in R: Part 2 / Shiny Apps in R Part 1Wed, Dec 12Week 14Shiny Apps in R Part 2 </description>
     </item>
     
     <item>
@@ -39,6 +39,16 @@
     </item>
     
     <item>
+      <title>Final Projects!</title>
+      <link>https://php2560.com/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/project/</guid>
+      <description>Overview The goal of your final two projects are to merge everything that you have learned and to create something useful for another researcher or future student to use.
+It is very important that we can create tools and present and display material for audiences with diverse backgrounds to engage in. We need to take the code and the skills we have and put them to use for an audience that does not have the same skills.</description>
+    </item>
+    
+    <item>
       <title>Policies</title>
       <link>https://php2560.com/policies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -46,6 +56,16 @@
       <guid>https://php2560.com/policies/</guid>
       <description>Class: Class time is designed to be as interactive as possible. My role as instructor is to introduce you new tools and techniques, but it is up to you to take them and make use of them. Programming is a skill that is best learned by doing, so as much as possible you will be working on a variety of tasks and activities throughout each class.
 Diversity &amp;amp; Inclusiveness: It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students&#39; learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit.</description>
+    </item>
+    
+    <item>
+      <title>Project Ideas!</title>
+      <link>https://php2560.com/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/ideas/</guid>
+      <description>It can be difficult to come up with original ideas for apps. You might want to try these things
+ Consider a Hobby and how you could create an app around it. Examples:  Health and Fitness Draft Kings  Consider some work your are currently doing in school and create an app around that. Examples  Migration Emulator Associations  Consider an App you might find that would help people with something.</description>
     </item>
     
     <item>
@@ -258,7 +278,16 @@ Flipped Material  Sign into Datacamp Complete Chapters 5: Simulations from PHP 1
     </item>
     
     <item>
-      <title>Week 07 Preclass</title>
+      <title>Week 07 Reading</title>
+      <link>https://php2560.com/reading/07-reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/reading/07-reading/</guid>
+      <description> Required Reading  The SQL Tutorial for Data Analysis The SQL Course  </description>
+    </item>
+    
+    <item>
+      <title>Week 08 Preclass</title>
       <link>https://php2560.com/preclass/08-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -272,21 +301,21 @@ Practice: Once this is done practice the basic statements using:
     </item>
     
     <item>
-      <title>Week 07 Reading</title>
-      <link>https://php2560.com/reading/07-reading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://php2560.com/reading/07-reading/</guid>
-      <description> Required Reading  The SQL Tutorial for Data Analysis The SQL Course  </description>
-    </item>
-    
-    <item>
       <title>Week 08 Reading</title>
       <link>https://php2560.com/reading/08-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://php2560.com/reading/08-reading/</guid>
       <description> Required Reading  Text Mining with R  </description>
+    </item>
+    
+    <item>
+      <title>Week 09 Preclass</title>
+      <link>https://php2560.com/preclass/09-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/09-preclass/</guid>
+      <description> Flipped Material  Sign into Datacamp Complete Working with Web Data in R Complete Webscraping in R from PHP 2560.  Pre-Class Problems  Find the files here Save the README.md and pre-class-09.Rmd in your pre-class repository under a new folder called Week 09. Remember to commit often. All work is due prior to class at 10:30am.  </description>
     </item>
     
     <item>
@@ -314,6 +343,34 @@ Practice: Once this is done practice the basic statements using:
       
       <guid>https://php2560.com/reading/11-reading/</guid>
       <description> Required Reading  R Packages: A Beginner&amp;rsquo;s Guide R Packages  </description>
+    </item>
+    
+    <item>
+      <title>Week 12 Preclass</title>
+      <link>https://php2560.com/preclass/12-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/12-preclass/</guid>
+      <description>R Package Building Pre-Class  For the second part of the your work, you will be expected to start learning about R Packages:  Hilary Parker Tutorial RStudio Package Creation MIT Package Step-by-Step Guide Karl Broman Package Primer Hadley Wickham Package Creation Book Getting Ready for Your Package You will be working in groups of 2-3 for this task. Identify your group Create your team and start a repository Create aREADME.</description>
+    </item>
+    
+    <item>
+      <title>Week 13 Preclass</title>
+      <link>https://php2560.com/preclass/10-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/10-preclass/</guid>
+      <description>Flipped Material  Sign into Datacamp Complete String Mainipulation in R with stringr. Complete Sentiment Analysis in R the Tidy Way  Problem Set There will be no specific assignment for but make sure you can complete the following type of problems:
+Creating strings, counting characters  Make a string with your last name, and (programmatically) count the number of characters. Make a vector of strings of length 2, with your first name and then last name, and count the number of characters in each.</description>
+    </item>
+    
+    <item>
+      <title>Week 13 Preclass</title>
+      <link>https://php2560.com/preclass/13-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://php2560.com/preclass/13-preclass/</guid>
+      <description>Shiny App Building Pre-Class Individual Aspect  Go to the Shiny website.  Explore the gallery of Project ideas. Follow the Tutorial Go through this Walkthrough by Dean Attali To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a (z) value and gives a p-value.</description>
     </item>
     
     <item>

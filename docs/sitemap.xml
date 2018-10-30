@@ -27,6 +27,10 @@
   </url>
   
   <url>
+    <loc>https://php2560.com/project/</loc>
+  </url>
+  
+  <url>
     <loc>https://php2560.com/inclass/</loc>
     <priority>0</priority>
   </url>
@@ -43,6 +47,10 @@
   <url>
     <loc>https://php2560.com/preclass/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://php2560.com/ideas/</loc>
   </url>
   
   <url>
@@ -140,15 +148,19 @@
   </url>
   
   <url>
-    <loc>https://php2560.com/preclass/08-preclass/</loc>
-  </url>
-  
-  <url>
     <loc>https://php2560.com/reading/07-reading/</loc>
   </url>
   
   <url>
+    <loc>https://php2560.com/preclass/08-preclass/</loc>
+  </url>
+  
+  <url>
     <loc>https://php2560.com/reading/08-reading/</loc>
+  </url>
+  
+  <url>
+    <loc>https://php2560.com/preclass/09-preclass/</loc>
   </url>
   
   <url>
@@ -161,6 +173,18 @@
   
   <url>
     <loc>https://php2560.com/reading/11-reading/</loc>
+  </url>
+  
+  <url>
+    <loc>https://php2560.com/preclass/12-preclass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://php2560.com/preclass/10-preclass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://php2560.com/preclass/13-preclass/</loc>
   </url>
   
   <url>

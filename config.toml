@@ -50,28 +50,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "/calendar"
 [[menu.main]]
   weight = 4
-  identifier = "rstudio"
-  name = "RStudio"
-  pre = "<i class=\"material-icons\">cloud_queue</i>"
-  url = "https://rstudio.cloud"
-[[menu.main]]
-  weight = 5
   identifier = "github"
   name = "GitHub"
   pre = "<i class='fab fa-github fa-lg'></i>"
   url = "https://github.com/PHP-2560"
 [[menu.main]]
-  weight = 6
+  weight = 5
   identifier = "slack"
   name = "Slack"
   pre = "<i class='fab fa-slack fa-lg'></i>"
   url = "https://php-1560-2560.slack.com/"
 [[menu.main]]
-  weight = 7
+  weight = 6
   identifier = "rubric"
   name = "Rubric"
   pre = "<i class='fab fa-gavel fa-lg'></i>"
   url = "/rubric"
+  [[menu.main]]
+  weight = 7
+  identifier = "Projects"
+  name = "Projects"
+  pre = "<i class='fa fa-code fa-lg'></i>"
+  url = "/project"
 
 [[menu.footer]]
   weight = 1
