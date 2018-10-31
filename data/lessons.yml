@@ -51,6 +51,7 @@ lessons:
   - title: "SQL"
     reading: "07-reading"
     preclass: "08-preclass"
+    inclass: "08-inclass"
   - title: "Week 09"
     date: "Wed, Nov 07"
   - title: "Webscraping in R "
