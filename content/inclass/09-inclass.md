@@ -47,7 +47,12 @@ Follow the layout of the dunkin donuts scrape.
 Essentially this allows for you work to be updated over time by running one R file and it generates a new html file. With this set up, I could go ahead and have my document updated every second, hour, day or week. 
 
 
+
+
 [Here is your group repository](https://classroom.github.com/g/ESQVWTjL)
+
+
+
 
 
 ## Tips
