@@ -57,6 +57,7 @@ lessons:
   - title: "Webscraping in R "
     reading: "10-reading"
     preclass: "09-preclass"
+    inclass: "09-inclass"
   - title: "Week 10"
     date: "Wed, Nov 14"
   - title: "Text Mining in R"
