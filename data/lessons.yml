@@ -67,6 +67,7 @@ lessons:
     date: "Wed, Nov 21"
   - title: "Graphics in R"
     reading: "09-reading"
+    preclass: "11-preclass"
   - title: "Week 12"
     date: "Wed, Nov 28"
   - title: "Package Building in R: Part 1"

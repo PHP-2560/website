@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preclasses on PHP 1560/2560: Statistical Programming with R</title>
-    <link>https://php2560.com/preclass/</link>
+    <link>/preclass/</link>
     <description>Recent content in Preclasses on PHP 1560/2560: Statistical Programming with R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://php2560.com/preclass/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/preclass/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Week 01 Preclass</title>
-      <link>https://php2560.com/preclass/01-preclass/</link>
+      <link>/preclass/01-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/01-preclass/</guid>
+      <guid>/preclass/01-preclass/</guid>
       <description>Introduction Welcome to PHP 1560&amp;frasl;2560. This course is all about how to become a proficient programmer in R. In order to become an R Programmer you must actually practice coding and working in R.
 This course is what we call a flipped course. A flipped course is where we have the lecture at home and then in the classroom we focus on hands on learning.
 Each week before class you will have a series of Pre-Class work.</description>
@@ -23,70 +23,70 @@ Each week before class you will have a series of Pre-Class work.</description>
     
     <item>
       <title>Week 02 Preclass</title>
-      <link>https://php2560.com/preclass/02-preclass/</link>
+      <link>/preclass/02-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/02-preclass/</guid>
+      <guid>/preclass/02-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
 Flipped Material  Sign into Datacamp Complete Chapter 1 Complete Manipulate Data in R Complete the pre-class work.  This link will create a github repository. Clone this on your computer, change the readme as directed, commit, then proceed to work.</description>
     </item>
     
     <item>
       <title>Week 03 Preclass</title>
-      <link>https://php2560.com/preclass/03-preclass/</link>
+      <link>/preclass/03-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/03-preclass/</guid>
+      <guid>/preclass/03-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
 Flipped Material  Sign into Datacamp Complete Joining Data in R with dplyr course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 03 Copy the readme.md and pre-class-03.</description>
     </item>
     
     <item>
       <title>Week 04 Preclass</title>
-      <link>https://php2560.com/preclass/04-preclass/</link>
+      <link>/preclass/04-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/04-preclass/</guid>
+      <guid>/preclass/04-preclass/</guid>
       <description>Introduction We wil begin to learn how to use R to a much higher level.
 Flipped Material  Sign into Datacamp Complete Chapters 3: Flow Control and Initial Functions from PHP 1560&amp;frasl;2560 Statistical Programing with R. Complete Intermediate R Course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 04 Copy the readme.md and pre-class-04.Rmd document into this. Follow the instructions and commit often.</description>
     </item>
     
     <item>
       <title>Week 05 Preclass</title>
-      <link>https://php2560.com/preclass/05-preclass/</link>
+      <link>/preclass/05-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/05-preclass/</guid>
+      <guid>/preclass/05-preclass/</guid>
       <description>Introduction We will begin working with functions in R.
 Flipped Material  Sign into Datacamp Complete Chapters 4: Functions from PHP 1560&amp;frasl;2560 Statistical Programing with R. Complete Writing Functions in R Course Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 05 Copy the readme.md and pre-class-05.Rmd document into this. Follow the instructions and commit often.    In-Class Problems  Find the files here Save the README.</description>
     </item>
     
     <item>
       <title>Week 06 Preclass</title>
-      <link>https://php2560.com/preclass/06-preclass/</link>
+      <link>/preclass/06-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/06-preclass/</guid>
+      <guid>/preclass/06-preclass/</guid>
       <description>Introduction This Class will be working with Functions again. This means there is little new material however, there is some good reading you should all do.
 Required Reading  R For Data Science: Functions Chapter Functional Programming - Advanced R Functionals Function Operators   In-Class Problems  Find the files here Save the README.md and pre-class-06.Rmd in your pre-class repository under a new folder called Week 06. Remember to commit often.</description>
     </item>
     
     <item>
       <title>Week 07 Preclass</title>
-      <link>https://php2560.com/preclass/07-preclass/</link>
+      <link>/preclass/07-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/07-preclass/</guid>
+      <guid>/preclass/07-preclass/</guid>
       <description>Introduction We will be working with simulations and functions for this week.
 Flipped Material  Sign into Datacamp Complete Chapters 5: Simulations from PHP 1560&amp;frasl;2560 Statistical Programing with R. Complete the Monte Carlo Simulations Chapter   In-Class Problems  Find the files here Save the README.md and pre-class-07.Rmd in your pre-class repository under a new folder called Week 07. Remember to commit often. All work is due prior to class at 10:30am.</description>
     </item>
     
     <item>
       <title>Week 08 Preclass</title>
-      <link>https://php2560.com/preclass/08-preclass/</link>
+      <link>/preclass/08-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/08-preclass/</guid>
+      <guid>/preclass/08-preclass/</guid>
       <description> Introduction We will be working with simulations and functions for this week.
 Flipped Material Videos: Brown has access to lynda.com. Sign up for your access:
  Instructions for Lynda  Sign into lynda and take the following course:
@@ -97,38 +97,47 @@ Practice: Once this is done practice the basic statements using:
     
     <item>
       <title>Week 09 Preclass</title>
-      <link>https://php2560.com/preclass/09-preclass/</link>
+      <link>/preclass/09-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/09-preclass/</guid>
+      <guid>/preclass/09-preclass/</guid>
       <description> Flipped Material  Sign into Datacamp Complete Working with Web Data in R Complete Webscraping in R from PHP 2560.  Pre-Class Problems  Find the files here Save the README.md and pre-class-09.Rmd in your pre-class repository under a new folder called Week 09. Remember to commit often. All work is due prior to class at 10:30am.  </description>
     </item>
     
     <item>
-      <title>Week 12 Preclass</title>
-      <link>https://php2560.com/preclass/12-preclass/</link>
+      <title>Week 11 Preclass</title>
+      <link>/preclass/11-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/12-preclass/</guid>
+      <guid>/preclass/11-preclass/</guid>
+      <description>Flipped Material  Sign into Datacamp Complete Data Visualization with ggplot2 (Part 1). Complete Data Visualization with ggplot2 (Part 2). Complete Chapter 8: ggplot  Problem Set There is no problem set for this. Please continue to work on your final in class project.</description>
+    </item>
+    
+    <item>
+      <title>Week 12 Preclass</title>
+      <link>/preclass/12-preclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/preclass/12-preclass/</guid>
       <description>R Package Building Pre-Class  For the second part of the your work, you will be expected to start learning about R Packages:  Hilary Parker Tutorial RStudio Package Creation MIT Package Step-by-Step Guide Karl Broman Package Primer Hadley Wickham Package Creation Book Getting Ready for Your Package You will be working in groups of 2-3 for this task. Identify your group Create your team and start a repository Create aREADME.</description>
     </item>
     
     <item>
       <title>Week 13 Preclass</title>
-      <link>https://php2560.com/preclass/10-preclass/</link>
+      <link>/preclass/10-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/10-preclass/</guid>
+      <guid>/preclass/10-preclass/</guid>
       <description>Flipped Material  Sign into Datacamp Complete String Mainipulation in R with stringr. Complete Sentiment Analysis in R the Tidy Way  Problem Set There will be no specific assignment for but make sure you can complete the following type of problems:
 Creating strings, counting characters  Make a string with your last name, and (programmatically) count the number of characters. Make a vector of strings of length 2, with your first name and then last name, and count the number of characters in each.</description>
     </item>
     
     <item>
       <title>Week 13 Preclass</title>
-      <link>https://php2560.com/preclass/13-preclass/</link>
+      <link>/preclass/13-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/preclass/13-preclass/</guid>
+      <guid>/preclass/13-preclass/</guid>
       <description>Shiny App Building Pre-Class Individual Aspect  Go to the Shiny website.  Explore the gallery of Project ideas. Follow the Tutorial Go through this Walkthrough by Dean Attali To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a (z) value and gives a p-value.</description>
     </item>
     
