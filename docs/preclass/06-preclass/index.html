@@ -150,27 +150,27 @@
 <h2 id="these-questions-come-form-your-reading">These Questions come form your reading</h2>
 
 <ol>
-<li>Read the source code for each of the following three functions, puzzle out what they do, and then brainstorm better names.</li>
-</ol>
+<li><p>Read the source code for each of the following three functions, puzzle out what they do, and then brainstorm better names.</p>
 
 <pre><code>f1 &lt;- function(string, prefix) {
-  substr(string, 1, nchar(prefix)) == prefix
+substr(string, 1, nchar(prefix)) == prefix
 }
 f2 &lt;- function(x) {
-  if (length(x) &lt;= 1) return(NULL)
-  x[-length(x)]
+if (length(x) &lt;= 1) return(NULL)
+x[-length(x)]
 }
 f3 &lt;- function(x, y) {
-  rep(y, length.out = length(x))
+rep(y, length.out = length(x))
 }
-</code></pre>
+</code></pre></li>
 
-<ol>
-<li>Compare and contrast rnorm() and MASS::mvrnorm(). How could you make them more consistent?</li>
-<li>Use <code>lapply()</code> and an anonymous function to find the coefficient of variation (the standard deviation divided by the mean) for all columns in the mtcars dataset.</li>
-<li>Use vapply() to:
+<li><p>Compare and contrast rnorm() and MASS::mvrnorm(). How could you make them more consistent?</p></li>
+
+<li><p>Use <code>lapply()</code> and an anonymous function to find the coefficient of variation (the standard deviation divided by the mean) for all columns in the mtcars dataset.</p></li>
+
+<li><p>Use vapply() to:
 a. Compute the standard deviation of every column in a numeric data frame.
-b. Compute the standard deviation of every numeric column in a mixed data frame. (Hint: you’ll need to use vapply() twice.)</li>
+b. Compute the standard deviation of every numeric column in a mixed data frame. (Hint: you’ll need to use vapply() twice.)</p></li>
 </ol>
 
 	      </div>
