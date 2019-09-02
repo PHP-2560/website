@@ -3,7 +3,7 @@ title: "Week 01 Inclass"
 ---
 
 
-# First Class:  September 12, 2018
+# First Class:  September 11, 2019
 
 
 ## Agenda

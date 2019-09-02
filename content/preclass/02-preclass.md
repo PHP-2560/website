@@ -12,7 +12,7 @@ We have started to use RStudio and Github. Now is your time to get more acquaint
 ## Flipped Material 
 
 - Sign into [Datacamp](https://www.datacamp.com/)
-- Complete [Chapter 1](https://campus.datacamp.com/courses/php-15602560-statistical-programming-in-r/basics-of-r-programming?ex=1)
+- Complete [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
 - Complete [Manipulate Data in R](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 - [Complete the pre-class work](https://classroom.github.com/a/Wdalsamo). 
     - This link will create a github repository. 
@@ -21,6 +21,7 @@ We have started to use RStudio and Github. Now is your time to get more acquaint
 ## Optional Flipped Material  (Additional Practice if desired/ If you have time)
 
 - Sign into [Datacamp](https://www.datacamp.com/)
+- Complete [Chapter 1](https://campus.datacamp.com/courses/php-15602560-statistical-programming-in-r/basics-of-r-programming?ex=1)
 - Complete [Chapter 2](https://campus.datacamp.com/courses/php-15602560-statistical-programming-in-r/data-wrangling-in-r-with-plyr-and-dplyr?ex=1)
 
 

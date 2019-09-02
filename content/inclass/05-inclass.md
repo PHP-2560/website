@@ -3,7 +3,7 @@ title: "Week 05 Inclass"
 ---
 
 
-# Fifth Class:  October 10, 2018
+# Fifth Class:  October 9, 2019
 
 
 ## Agenda

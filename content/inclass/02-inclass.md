@@ -3,7 +3,7 @@ title: "Week 02 Inclass"
 ---
 
 
-# Second Class:  September 19, 2018
+# Second Class:  September 18, 2019
 
 
 ## Agenda

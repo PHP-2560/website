@@ -32,6 +32,9 @@ Go to the reading for this week and then install R from [CRAN](https://cran.r-pr
 
 You must install R first! Then following the instructions in the reading and then go to [RStudio](https://www.rstudio.com/products/rstudio/download/#download) to download the correct version for your computer. 
 
+
+
+
 ## Join DataCamp
 
 Go to [DataCamp](https://www.datacamp.com/) then sign in or create an account using your Brown e-mail address. It is important that you use a Brown account as we will be gaining full access to DataCamp for the course. 
@@ -41,6 +44,17 @@ Once you have joined DataCamp, the first course you will take will explain the b
 
 
 
+## Pre-requisites
+
+Based on the pre-requisites it is assumed that you have a basic knowledge of R. 
+
+
+Make sure you complete the following R course in Datacamp as well. This will display that you have the basics of R down: 
+
+- [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+
+
+
 ## Come to Class Ready
 
-Bring a fully charged laptop and be ready to work with git and RStudio. Remember participation is 15% of the grade and Pre-class work is 20%. Failure to be prepared will affect both of these. 
+Bring a fully charged laptop and be ready to work with git and RStudio. Remember pre-class work is 20% of your grade. Failure to be prepared will affect both of these. 

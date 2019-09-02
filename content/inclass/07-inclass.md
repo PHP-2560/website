@@ -3,7 +3,7 @@ title: "Week 07 Inclass"
 ---
 
 
-# Seventh Class:  October 24, 2018
+# Seventh Class:  October 23, 2019
 
 
 ## Agenda

@@ -1,5 +1,5 @@
 # website
-Course website for PHP 1560-2560 at Brown University: Fall 2018 Course.
+Course website for PHP 1560-2560 at Brown University: Fall 2019 Course.
 
 Course website is at https://php2560.com/.
 

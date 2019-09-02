@@ -3,7 +3,7 @@ title: "Week 08 Inclass"
 ---
 
 
-#  Class 8:  October 31, 2018
+#  Class 8:  October 30, 2019
 
 
 ## Agenda

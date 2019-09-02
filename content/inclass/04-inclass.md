@@ -3,7 +3,7 @@ title: "Week 04 Inclass"
 ---
 
 
-# Fourth Class:  October 3, 2018
+# Fourth Class:  October 2, 2019
 
 
 ## Agenda

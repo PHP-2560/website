@@ -3,7 +3,7 @@ title: "Week 09 Inclass"
 ---
 
 
-#  Class 9:  November 7, 2018
+#  Class 9:  November 6, 2019
 
 
 ## Agenda

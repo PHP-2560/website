@@ -3,7 +3,7 @@ title: "Week 00 Reading"
 ---
 
 
-# First Class is September 12
+# First Class is September 11
 
 
 ## Introduction

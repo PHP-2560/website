@@ -3,7 +3,7 @@ title: "Week 03 Inclass"
 ---
 
 
-# Third Class:  September 26, 2018
+# Third Class:  September 25, 2019
 
 
 ## Agenda

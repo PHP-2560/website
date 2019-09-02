@@ -10,7 +10,7 @@ geometry: margin=1in
 
 title: "PHP 1560/2560: Statistical Computing with R"
 author: Dr. Adam J Sullivan
-date: "Fall 2017"
+date: "Fall 2019"
 
 email: "adam_sullivan@brown.edu"
 web: "rstudio.sullivanstatistics.com"
@@ -30,7 +30,7 @@ header-includes:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache=FALSE, dev='pdf')
-mon <- as.Date("2018-09-03")
+mon <- as.Date("2019-09-02")
 # fri <- as.Date("2016-01-08")
 
 advdate <- function(obj, adv) {
@@ -144,13 +144,11 @@ Students will be evaluated based on:
 -------------------------------------------------
 Grade Category          Percentage
 ---------------------- ---------------------------------
-Participation               15%
-
 Pre-Class Assignments       20%
 
 In-Class Projects           20%
 
-R Package                   15%
+R Package                   30%
 
 Shiny App                   30%
 --------------------------------------------------
@@ -269,7 +267,7 @@ Total                   190
 
 Important: Flipped material and readings are subject to change, contingent on mitigating circumstances and the progress we make as a class.  
 
-## `r advdate(mon, 1)`: NO CLASS: First Class will be September 10th 
+## `r advdate(mon, 1)`: NO CLASS: First Class will be September 11th 
 
 
 - **NO CLASS**
@@ -285,7 +283,6 @@ Important: Flipped material and readings are subject to change, contingent on mi
 - *First Day of Class*
 - Go over syllabus
 - Learn about flipped course.
-- Learn Use of Server. 
 - Learn Basics of R and RMarkdown
 - Basic Data Retrieval and tracking Code
 
@@ -300,17 +297,23 @@ Important: Flipped material and readings are subject to change, contingent on mi
     - Teetor Chap 7
     - Rizzo Chap 1
 - Cleaning Data with Dplyr and Tidyr.
-- Using Dplyr on MySql databases. 
 - *Required Readings*:
     - [tidyr and dplyr from Stats Education](http://statseducation.com/Introduction-to-R/modules/tidy%20data/tidy-data/)
     - [Chapters 9-16 in R for Data Science (short chapters)](http://r4ds.had.co.nz/wrangle-intro.html)
 
 
+##  `r advdate(mon, 4)`: Graphics in R
+
+
+- `ggplot2` in R
+- *Required Readings*:
+    - [Graphics from Stats Education](http://statseducation.com/Introduction-to-R/modules/graphics/ggplot2/)
+
 
     
 
 
-##  `r advdate(mon, 4)`:  Controlling the Flow
+##  `r advdate(mon, 5)`:  Controlling the Flow
 
 - Basics of Logic
 - Loops and other Controls.
@@ -321,7 +324,7 @@ Important: Flipped material and readings are subject to change, contingent on mi
 
 
     
-##  `r advdate(mon, 5)`: Functions in R
+##  `r advdate(mon,65)`: Functions in R
 
 - Writing and Debugging Functions in R
 - *Required Reading*:
@@ -331,7 +334,7 @@ Important: Flipped material and readings are subject to change, contingent on mi
     - Teetor Chap 13
 
 
-##  `r advdate(mon, 6)`: Functions in R: Part 2
+##  `r advdate(mon, 7)`: Functions in R: Part 2
 
 - Writing and Debugging Functions in R
 - *Required Reading*:
@@ -340,26 +343,23 @@ Important: Flipped material and readings are subject to change, contingent on mi
     - Jones Chap 7-9
     - Teetor Chap 13  
     
-##  `r advdate(mon, 7)`: Simulation
+##  `r advdate(mon, 8)`: Writing Efficient R Code
+
+- Working on more Efficient Coding
+- *Require Reading*:
+    - [Advanced R Chapter 23](https://adv-r.hadley.nz/perf-measure.html)
+    - [Advanced R Chapter 24](https://adv-r.hadley.nz/perf-improve.html)
 
 
-- Basics of Simulation
-- Simulating Distributions and MCMC. 
-- *Required Reading*:
-    - Matloff Chap 8
-    - Rizzo Chap 3
-    - Jones Chap 20
-    
-    
-##  `r advdate(mon, 8)`: SQL
+##  `r advdate(mon, 9)`: SQL
 
 - Basic SQL Commands.
 - Accessing MySQL on a server. 
 - *Required Readings*:
-    - TBD
+    - Datacamp work Only
 
 
-##  `r advdate(mon, 9)`: Text Mining in R
+##  `r advdate(mon, 10)`: Text Mining in R
 
 - tidytext
 - Text mining in R.
@@ -367,13 +367,6 @@ Important: Flipped material and readings are subject to change, contingent on mi
 - *Required Readings*:
     - [Text Mining with R](http://tidytextmining.com/)
 
-
-##  `r advdate(mon, 10)`: Graphics in R
-
-
-- `ggplot2` in R
-- *Required Readings*:
-    - [Graphics from Stats Education](http://statseducation.com/Introduction-to-R/modules/graphics/ggplot2/)
 
 
 ##  `r advdate(mon, 11)`: Webscraping in R
