@@ -39,9 +39,18 @@ You must install R first! Then following the instructions in the reading and the
 
 Go to [DataCamp](https://www.datacamp.com/) then sign in or create an account using your Brown e-mail address. It is important that you use a Brown account as we will be gaining full access to DataCamp for the course. 
 
+Once you have joined, [Click this Link](https://www.datacamp.com/groups/shared_links/77bfdf4cc4478ea13fb60f4b21c59c22b9e69249) to join the datacamp group. This will give you free access to datacamp for 6 months. 
+
 
 Once you have joined DataCamp, the first course you will take will explain the basics of Git. The course is called [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science). 
 
+
+### Helpful Github Work
+
+If you have never used github, the datacamp coure can seem confusing. You may want to try learning some from the github learning lab. (Note to do these you will need to sign up for github, make sure your username is professional as you cannot change usernames in the future):
+
+- [First Day on Github](https://lab.github.com/githubtraining/paths/first-day-on-github)
+- [First Week on Github](https://lab.github.com/githubtraining/paths/first-week-on-github)
 
 
 ## Pre-requisites
