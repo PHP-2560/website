@@ -14,7 +14,7 @@ We have started to use RStudio and Github. Now is your time to get more acquaint
 - Sign into [Datacamp](https://www.datacamp.com/)
 - Complete [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
 - Complete [Manipulate Data in R](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
-- [Complete the pre-class work](https://classroom.github.com/a/Wdalsamo). 
+- [Complete the pre-class work](https://classroom.github.com/a/ExrmwUjM). 
     - This link will create a github repository. 
     - Clone this on your computer, change the readme as directed, commit, then proceed to work. 
     
