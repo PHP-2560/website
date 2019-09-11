@@ -16,7 +16,10 @@ We have started to use RStudio and Github. Now is your time to get more acquaint
 - Complete [Manipulate Data in R](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
 - [Complete the pre-class work](https://classroom.github.com/a/ExrmwUjM). 
     - This link will create a github repository. 
-    - Clone this on your computer, change the readme as directed, commit, then proceed to work. 
+    - Clone this on your computer:
+        - change the readme as directed
+        - commit
+        - then proceed to work. 
     
 ## Optional Flipped Material  (Additional Practice if desired/ If you have time)
 
