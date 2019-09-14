@@ -19,7 +19,7 @@
       <guid>https://php2560.com/calendar/</guid>
       <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.
 
- Date Lesson Pre-Class Reading In-Class   Wed, Sept 04 Week 00       No Class      Wed, Sept 11 Week 01       Syllabus Day / Getting Started      Wed, Sept 18 Week 02       R Basics / Working with Dplyr and Tidyr      </description>
+ Date Lesson Pre-Class Reading In-Class   </description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@ Each week before class you will have a series of Pre-Class work.</description>
       
       <guid>https://php2560.com/preclass/02-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
-Flipped Material  Sign into Datacamp Complete Introduction to the Tidyverse Complete Manipulate Data in R Complete the pre-class work.  This link will create a github repository. Clone this on your computer, change the readme as directed, commit, then proceed to work.</description>
+Flipped Material  Sign into Datacamp Complete Introduction to the Tidyverse Complete Manipulate Data in R Complete the pre-class work.  This link will create a github repository. Clone this on your computer:  change the readme as directed commit then proceed to work.</description>
     </item>
     
     <item>

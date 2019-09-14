@@ -19,6 +19,6 @@ title: "Week 03 Inclass"
 1. Have one Person in your group click on this link and create a group and name that group. 
 2. All other members can then click on the link and join the appropriate group. 
 
-[In Class Exercise](https://classroom.github.com/g/0Im5MIJa)
+[In Class Exercise](https://classroom.github.com/g/vTPushSr)
 
 [Terror Dataset](https://drive.google.com/file/d/0B8CsRLdwqzbzT2pyTG5zX0o5blE/view?usp=sharing)
