@@ -42,7 +42,12 @@ B. Now, add all the EVEN integers between 0 and 1000 (hint: use seq())
 
 C. Now, repeat A and B WITHOUT using a loop.
 
-### Question 3:
+
+### Question 3: 
+
+Learn the rules of the game yahtzee, we will be simulating this game in class. Make sure you are ready to do this. 
+
+### (PHP 2560 Only) Question 4:
 
 Here is a dataframe of survey data containing 5 questions :
 
