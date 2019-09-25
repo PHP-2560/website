@@ -22,3 +22,12 @@ title: "Week 03 Inclass"
 [In Class Exercise](https://classroom.github.com/g/vTPushSr)
 
 [Terror Dataset](https://drive.google.com/file/d/0B8CsRLdwqzbzT2pyTG5zX0o5blE/view?usp=sharing)
+
+
+
+For the `flights` data:
+
+```
+install.packages("nycflights13")
+library(nycflights13)
+```
