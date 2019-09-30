@@ -17,11 +17,11 @@ We will be working with simulations and functions for this week.
 
 
     
-## In-Class Problems
+## Pre-Class Problems
 
 - [Find the files here](https://github.com/PHP-2560/pre-class/tree/master/Week%2007)
 - Save the `README.md` and `pre-class-07.Rmd` in your pre-class repository under a new folder called `Week 07`. 
 - Remember to commit often. 
-- All work is due prior to class at 10:30am.
+- All work is due prior to class at 9:00am.
     
 

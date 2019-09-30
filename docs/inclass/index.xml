@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inclasses on PHP 1560/2560: Statistical Programming with R</title>
-    <link>https://php2560.com/inclass/</link>
+    <link>/inclass/</link>
     <description>Recent content in Inclasses on PHP 1560/2560: Statistical Programming with R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://php2560.com/inclass/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/inclass/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Week 01 Inclass</title>
-      <link>https://php2560.com/inclass/01-inclass/</link>
+      <link>/inclass/01-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/01-inclass/</guid>
+      <guid>/inclass/01-inclass/</guid>
       <description>First Class: September 11, 2019 Agenda  Go Over Syllabus Discuss RStudio and Git Survey Practice using Git.  Syllabus We will focus first on the syllabus and make sure all students are clear on what this course is and is not. Also we will consider what you can expect to obtain by taking this course. You will need access to the syllabus:
  On Course Site PHP 1560 Canvas PHP 2560 Canvas Github Site  Discuss RStudio and Git We will discuss the three main uses of material in this course:</description>
     </item>
     
     <item>
       <title>Week 02 Inclass</title>
-      <link>https://php2560.com/inclass/02-inclass/</link>
+      <link>/inclass/02-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/02-inclass/</guid>
+      <guid>/inclass/02-inclass/</guid>
       <description>Second Class: September 18, 2019 Agenda  Discuss Grading Rubric Discuss RMarkdown Questions In Class work  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
     </item>
     
     <item>
       <title>Week 03 Inclass</title>
-      <link>https://php2560.com/inclass/03-inclass/</link>
+      <link>/inclass/03-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/03-inclass/</guid>
+      <guid>/inclass/03-inclass/</guid>
       <description>Third Class: September 25, 2019 Agenda  Questions Check on Github and DataCamp In Class Project  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 Terror Dataset
 For the flights data:</description>
@@ -42,28 +42,28 @@ For the flights data:</description>
     
     <item>
       <title>Week 04 Inclass</title>
-      <link>https://php2560.com/inclass/04-inclass/</link>
+      <link>/inclass/04-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/04-inclass/</guid>
+      <guid>/inclass/04-inclass/</guid>
       <description>Fourth Class: October 2, 2019 Agenda  Questions Discuss Preclass work In Class Project  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
     </item>
     
     <item>
       <title>Week 05 Inclass</title>
-      <link>https://php2560.com/inclass/05-inclass/</link>
+      <link>/inclass/05-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/05-inclass/</guid>
+      <guid>/inclass/05-inclass/</guid>
       <description>Fifth Class: October 9, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
     </item>
     
     <item>
       <title>Week 05 Inclass</title>
-      <link>https://php2560.com/inclass/06-inclass/</link>
+      <link>/inclass/06-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/06-inclass/</guid>
+      <guid>/inclass/06-inclass/</guid>
       <description>sixth Class: October 16, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 You may need to just use these functions directly:
 omit.case &amp;lt;- function(the_data,omitted_point) { # This should take the data and omit one point at a time and return the new data if(is.</description>
@@ -71,20 +71,20 @@ omit.case &amp;lt;- function(the_data,omitted_point) { # This should take the da
     
     <item>
       <title>Week 07 Inclass</title>
-      <link>https://php2560.com/inclass/07-inclass/</link>
+      <link>/inclass/07-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/07-inclass/</guid>
+      <guid>/inclass/07-inclass/</guid>
       <description>Seventh Class: October 23, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  Please click in order to get your github repository with the assignment and starter code.
 You will not turn anything in but by Friday, October 25 at 11:59pm you will no longer be able to commit.</description>
     </item>
     
     <item>
       <title>Week 08 Inclass</title>
-      <link>https://php2560.com/inclass/08-inclass/</link>
+      <link>/inclass/08-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/08-inclass/</guid>
+      <guid>/inclass/08-inclass/</guid>
       <description>Class 8: October 30, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS 1.This is an individual lab so everyone needs to click on the link below. 2. You can still work together.
 Please click in order to get your github repository with the assignment and starter code.
 You will not turn anything in but by Friday, November 2 at 11:59pm you will no longer be able to commit.</description>
@@ -92,10 +92,10 @@ You will not turn anything in but by Friday, November 2 at 11:59pm you will no l
     
     <item>
       <title>Week 09 Inclass</title>
-      <link>https://php2560.com/inclass/09-inclass/</link>
+      <link>/inclass/09-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://php2560.com/inclass/09-inclass/</guid>
+      <guid>/inclass/09-inclass/</guid>
       <description>Class 9: November 6, 2019 Agenda  Questions  Project This project will be a multiweek project that is due on Wednesday, November 28, 2018 at 9am. This project will consist of the following:
  Data Scraping Text mining Graphics Reproducible research  More details follow below:
 Day 1: Data Scraping (November 7, 2018) Find a topic that everyone in your group is interested in. Then try to find data which you can scrape with that.</description>
