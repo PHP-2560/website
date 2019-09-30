@@ -18,8 +18,12 @@ markup: "mmark"
 {.table .table-condensed .table-striped .text-left}
 <span>Title</span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|-------------------|------------------|------------------|------------------ 
-Instructor        | [Adam J Sullivan](https://vivo.brown.edu/display/asulliv3) | <a href="mailto:adam_sullivan@brown.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/sullivanstatistics" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/sullivanstats" title="Twitter"><i class="fa fa-twitter"></i></a> | TBD  | SPH 717
-TAS | TBD  | TBD | TBD | TBD
+Instructor        | [Adam J Sullivan](https://vivo.brown.edu/display/asulliv3) | <a href="mailto:adam_sullivan@brown.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/sullivanstatistics" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/sullivanstats" title="Twitter"><i class="fa fa-twitter"></i></a> | Wednesdays 9-10am  | SPH 717
+TAS | Yimo Zhang | <a href="mailto:yimo_zhang@brown.edu " title="email"><i class="fa fa-envelope"></i></a> | Tuesday & Thursday 12-2pm | SPH 251
+
+
+
+
 ### Course Materials
 
 {.table .table-condensed .table-striped .text-left}
