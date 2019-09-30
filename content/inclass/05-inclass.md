@@ -18,3 +18,4 @@ title: "Week 05 Inclass"
 
 [In Class Exercise](https://classroom.github.com/g/J86v22mi)
 
+You will not turn anything in but by Friday, October 11 at 11:59pm you will no longer be able to commit. So make sure the files showing your contribution are committed by then. 

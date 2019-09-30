@@ -19,7 +19,7 @@ title: "Week 07 Inclass"
 
 
 
-[Please click](https://classroom.github.com/g/k5CDWqcJ) in order to get your github repository with the assignment and starter code. 
+[Please click](https://classroom.github.com/g/dHKkZN8b) in order to get your github repository with the assignment and starter code. 
 
 You will not turn anything in but by Friday, October 25 at 11:59pm you will no longer be able to commit. So make sure the files showing your contribution are committed by then. 
 

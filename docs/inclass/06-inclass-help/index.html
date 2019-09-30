@@ -124,7 +124,7 @@
 		  	  <h2 class="title">Week 05 Inclass</h2>
 	            
 
-<h1 id="fifth-class-october-9-2019">Fifth Class:  October 9, 2019</h1>
+<h1 id="sixth-class-october-16-2019">sixth Class:  October 16, 2019</h1>
 
 <h2 id="agenda">Agenda</h2>
 
@@ -139,9 +139,24 @@
 <li>All other members can then click on the link and join the appropriate group.</li>
 </ol>
 
-<p><a href="https://classroom.github.com/g/J86v22mi">In Class Exercise</a></p>
+<p><a href="https://classroom.github.com/g/QAZJmnfP">In Class Exercise</a></p>
 
-<p>You will not turn anything in but by Friday, October 11 at 11:59pm you will no longer be able to commit. So make sure the files showing your contribution are committed by then.</p>
+<p>You may need to just use these functions directly:</p>
+
+<pre><code>omit.case &lt;- function(the_data,omitted_point) {
+    # This should take the data and omit one point at a time and return the new data
+        if(is.null(dim(the_data))) {
+          return(the_data[-omitted_point])
+        } else {
+          return(the_data[-omitted_point,])
+        }
+      }
+</code></pre>
+
+<pre><code>omit_and_est &lt;- function(omit) {
+  estimator(omit.case(the_data,omit)) # This function should take the output of omit.case and use it as input for the estimator
+}
+</code></pre>
 
 	      </div>
       </div>
