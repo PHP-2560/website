@@ -13,7 +13,7 @@ title: "Week 09 Inclass"
 
 ## Project
 
-This project will be a multiweek project that is due on Wednesday, November 28, 2018 at 9am. This project will consist of the following:
+This project will be a multiweek project that is due on Wednesday, November 27, 2019 at 9am. This project will consist of the following:
 
 1. Data Scraping
 2. Text mining 
@@ -23,13 +23,13 @@ This project will be a multiweek project that is due on Wednesday, November 28, 
 More details follow below:
 
 
-### Day 1: Data Scraping (November 7, 2018)
+### Day 1: Data Scraping (November 6, 2019)
 
 Find a topic that everyone in your group is interested in. Then try to find data which you can scrape with that. For example, you can scrape twitter data, election data, in the [example code](https://github.com/Sullivanstatistics/Dunkin_Scrape) I scrape the locations of Dunkin Donuts. It will take much of the first class to scrpae this data. 
 
 
 
-### Day 2: Text Mining (November 14, 2018)
+### Day 2: Text Mining (November 13, 2019)
 
 In this class you will spend more time scraping the data and then analyzing the text results. In my example, I did not analyze the text but just graphed and counted some simple things. You will need to use text mining/regular expressions to analyze the data though. You may wish to look for words or phrases, sentiments of statements, In the Dunkin data, I could have scraped the hours of operations or if they had wifi hotspots. 
 
@@ -49,7 +49,7 @@ Essentially this allows for you work to be updated over time by running one R fi
 
 
 
-[Here is your group repository](https://classroom.github.com/g/ESQVWTjL)
+[Here is your group repository](https://classroom.github.com/g/K-T3OYuR)
 
 
 

@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PHP 1560/2560: Statistical Programming with R</title>
-    <link>/</link>
+    <link>https://php2560.com/</link>
     <description>Recent content on PHP 1560/2560: Statistical Programming with R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://php2560.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/calendar/</link>
+      <link>https://php2560.com/calendar/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/calendar/</guid>
+      <guid>https://php2560.com/calendar/</guid>
       <description>Note: Due dates of exams and project will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.
 
- Date Lesson Pre-Class Reading In-Class   Wed, Sept 04 Week 00       No Class      Wed, Sept 11 Week 01       Syllabus Day / Getting Started      Wed, Sept 18 Week 02       R Basics / Working with Dplyr and Tidyr      Wed, Sept 25 Week 03       Joining Data in R      Wed, Oct 2 Week 04       Control Structures in R      Wed, Oct 9 Week 05       Functions in R: Part 1      Wed, Oct 16 Week 06       Functions in R: Part 2      Wed, Oct 23 Week 07       Simulations      </description>
+ Date Lesson Pre-Class Reading In-Class   Wed, Sept 04 Week 00       No Class      Wed, Sept 11 Week 01       Syllabus Day / Getting Started      Wed, Sept 18 Week 02       R Basics / Working with Dplyr and Tidyr      Wed, Sept 25 Week 03       Joining Data in R      Wed, Oct 2 Week 04       Control Structures in R      Wed, Oct 9 Week 05       Functions in R: Part 1      Wed, Oct 16 Week 06       Functions in R: Part 2      Wed, Oct 23 Week 07       Simulations      Wed, Oct 30 Week 08       SQL      Wed, Nov 06 Week 09       Webscraping in R       Wed, Nov 20 Week 11       Graphics in R      Wed, Nov 27 Week 12       Package Building in R: Part 1      Wed, Dec 04 Week 13       Package Building in R: Part 2 / Shiny Apps in R Part 1      Wed, Dec 11 Week 14       Shiny Apps in R Part 2      </description>
     </item>
     
     <item>
       <title></title>
-      <link>/rubric/</link>
+      <link>https://php2560.com/rubric/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/rubric/</guid>
+      <guid>https://php2560.com/rubric/</guid>
       <description>Grading Rubric for Pre-Class and In-Class work    Topic Excellent: ✓+ coded as 3 Satisfactory: ✓ coded as 02 Needs work: ✓- coded as - 01     Coding style Student has gone beyond what was expected and required, , code is well commented Coding style lacks refinement and has some errors, but code is readable and has some comments Many errors in coding style, little attention paid to making the code human readable   Coding strategy Complicated problem broken down into sub-problems that are individually much simpler.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/syllabus/</link>
+      <link>https://php2560.com/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/syllabus/</guid>
+      <guid>https://php2560.com/syllabus/</guid>
       <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }</description>
     </item>
     
     <item>
       <title>Final Projects!</title>
-      <link>/project/</link>
+      <link>https://php2560.com/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
+      <guid>https://php2560.com/project/</guid>
       <description>Overview The goal of your final two projects are to merge everything that you have learned and to create something useful for another researcher or future student to use.
 It is very important that we can create tools and present and display material for audiences with diverse backgrounds to engage in. We need to take the code and the skills we have and put them to use for an audience that does not have the same skills.</description>
     </item>
     
     <item>
       <title>Project Ideas!</title>
-      <link>/ideas/</link>
+      <link>https://php2560.com/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ideas/</guid>
+      <guid>https://php2560.com/ideas/</guid>
       <description>It can be difficult to come up with original ideas for apps. You might want to try these things
  Consider a Hobby and how you could create an app around it. Examples:  Health and Fitness Draft Kings  Consider some work your are currently doing in school and create an app around that. Examples  Migration Emulator Associations  Consider an App you might find that would help people with something.</description>
     </item>
     
     <item>
       <title>Week 00 Reading</title>
-      <link>/reading/00-reading/</link>
+      <link>https://php2560.com/reading/00-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/00-reading/</guid>
+      <guid>https://php2560.com/reading/00-reading/</guid>
       <description>First Class is September 11 Introduction Welcome to the class! The first step will be to watch the video below and then to go through the syllabus!
  Syllabus Please click on the link in the menu for the syllabus. Read through this so that you know what the class is about and then proceed to the Pre Class work for Week 01</description>
     </item>
     
     <item>
       <title>Week 01 Inclass</title>
-      <link>/inclass/01-inclass/</link>
+      <link>https://php2560.com/inclass/01-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/01-inclass/</guid>
+      <guid>https://php2560.com/inclass/01-inclass/</guid>
       <description>First Class: September 11, 2019 Agenda  Go Over Syllabus Discuss RStudio and Git Survey Practice using Git.  Syllabus We will focus first on the syllabus and make sure all students are clear on what this course is and is not. Also we will consider what you can expect to obtain by taking this course. You will need access to the syllabus:
  On Course Site PHP 1560 Canvas PHP 2560 Canvas Github Site  Discuss RStudio and Git We will discuss the three main uses of material in this course:</description>
     </item>
     
     <item>
       <title>Week 01 Preclass</title>
-      <link>/preclass/01-preclass/</link>
+      <link>https://php2560.com/preclass/01-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/01-preclass/</guid>
+      <guid>https://php2560.com/preclass/01-preclass/</guid>
       <description>Introduction Welcome to PHP 1560&amp;frasl;2560. This course is all about how to become a proficient programmer in R. In order to become an R Programmer you must actually practice coding and working in R.
 This course is what we call a flipped course. A flipped course is where we have the lecture at home and then in the classroom we focus on hands on learning.
 Each week before class you will have a series of Pre-Class work.</description>
@@ -93,48 +93,48 @@ Each week before class you will have a series of Pre-Class work.</description>
     
     <item>
       <title>Week 01 Reading</title>
-      <link>/reading/01-reading/</link>
+      <link>https://php2560.com/reading/01-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/01-reading/</guid>
+      <guid>https://php2560.com/reading/01-reading/</guid>
       <description> Required Reading  Getting Started with R  Read Everything and make sure you install both R and RStudio Explore RStudio  Happy git with R  Read through this and install Git with the instructions here.   </description>
     </item>
     
     <item>
       <title>Week 02 Inclass</title>
-      <link>/inclass/02-inclass/</link>
+      <link>https://php2560.com/inclass/02-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/02-inclass/</guid>
+      <guid>https://php2560.com/inclass/02-inclass/</guid>
       <description>Second Class: September 18, 2019 Agenda  Discuss Grading Rubric Discuss RMarkdown Questions In Class work  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise</description>
     </item>
     
     <item>
       <title>Week 02 Preclass</title>
-      <link>/preclass/02-preclass/</link>
+      <link>https://php2560.com/preclass/02-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/02-preclass/</guid>
+      <guid>https://php2560.com/preclass/02-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
 Flipped Material  Sign into Datacamp Complete Introduction to the Tidyverse Complete Manipulate Data in R Complete the pre-class work.  This link will create a github repository. Clone this on your computer:  change the readme as directed commit then proceed to work.</description>
     </item>
     
     <item>
       <title>Week 02 Reading</title>
-      <link>/reading/02-reading/</link>
+      <link>https://php2560.com/reading/02-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/02-reading/</guid>
+      <guid>https://php2560.com/reading/02-reading/</guid>
       <description> Required Reading  Introduction to R  Read whole module on tidy data.  R for Data Science  Read Chap 9 - 16    Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 1-5 Jones Chap 1-2 Teetor Chap 7 Rizzo Chap 1  </description>
     </item>
     
     <item>
       <title>Week 03 Inclass</title>
-      <link>/inclass/03-inclass/</link>
+      <link>https://php2560.com/inclass/03-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/03-inclass/</guid>
+      <guid>https://php2560.com/inclass/03-inclass/</guid>
       <description>Third Class: September 25, 2019 Agenda  Questions Check on Github and DataCamp In Class Project  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 Terror Dataset
 For the flights data:</description>
@@ -142,79 +142,79 @@ For the flights data:</description>
     
     <item>
       <title>Week 03 Preclass</title>
-      <link>/preclass/03-preclass/</link>
+      <link>https://php2560.com/preclass/03-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/03-preclass/</guid>
+      <guid>https://php2560.com/preclass/03-preclass/</guid>
       <description>Introduction We have started to use RStudio and Github. Now is your time to get more acquainted with R itself. We will start working with some of the very basic tools of R.
 Flipped Material  Sign into Datacamp Complete Joining Data in R with dplyr course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 03 Copy the readme.md and pre-class-03.</description>
     </item>
     
     <item>
       <title>Week 03 Reading</title>
-      <link>/reading/03-reading/</link>
+      <link>https://php2560.com/reading/03-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/03-reading/</guid>
+      <guid>https://php2560.com/reading/03-reading/</guid>
       <description> Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 7 Jones Chap 5  </description>
     </item>
     
     <item>
       <title>Week 04 Inclass</title>
-      <link>/inclass/04-inclass/</link>
+      <link>https://php2560.com/inclass/04-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/04-inclass/</guid>
+      <guid>https://php2560.com/inclass/04-inclass/</guid>
       <description>Fourth Class: October 2, 2019 Agenda  Questions Discuss Preclass work In Class Project  Please Join Slack  The old slack kept giving me problems allowing people to join. Click this link to join the class slack This will allow me to send updates and you to ask for help and post code and such.  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group.</description>
     </item>
     
     <item>
       <title>Week 04 Preclass</title>
-      <link>/preclass/04-preclass/</link>
+      <link>https://php2560.com/preclass/04-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/04-preclass/</guid>
+      <guid>https://php2560.com/preclass/04-preclass/</guid>
       <description>Introduction We wil begin to learn how to use R to a much higher level.
 Flipped Material  Sign into Datacamp Complete Chapters 3: Flow Control and Initial Functions from PHP 1560&amp;frasl;2560 Statistical Programing with R. Complete Intermediate R Course. Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 04 Copy the readme.md and pre-class-04.Rmd document into this. Follow the instructions and commit often.</description>
     </item>
     
     <item>
       <title>Week 04 Reading</title>
-      <link>/reading/04-reading/</link>
+      <link>https://php2560.com/reading/04-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/04-reading/</guid>
+      <guid>https://php2560.com/reading/04-reading/</guid>
       <description> Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 12-14 Rizzo Chap 4 Jones Chap 7-9 Teetor Chap 13  </description>
     </item>
     
     <item>
       <title>Week 04 Reading</title>
-      <link>/reading/05-reading/</link>
+      <link>https://php2560.com/reading/05-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/05-reading/</guid>
+      <guid>https://php2560.com/reading/05-reading/</guid>
       <description> Required Reading You Should read all of these
  R For Data Science: Functions Chapter Functional Programming - Advanced R Functionals Function Operators   </description>
     </item>
     
     <item>
       <title>Week 05 Inclass</title>
-      <link>/inclass/05-inclass/</link>
+      <link>https://php2560.com/inclass/05-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/05-inclass/</guid>
+      <guid>https://php2560.com/inclass/05-inclass/</guid>
       <description>Fifth Class: October 9, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 You will not turn anything in but by Friday, October 11 at 11:59pm you will no longer be able to commit.</description>
     </item>
     
     <item>
       <title>Week 05 Inclass</title>
-      <link>/inclass/06-inclass-help/</link>
+      <link>https://php2560.com/inclass/06-inclass-help/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/06-inclass-help/</guid>
+      <guid>https://php2560.com/inclass/06-inclass-help/</guid>
       <description>sixth Class: October 16, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 You may need to just use these functions directly:
 omit.case &amp;lt;- function(the_data,omitted_point) { # This should take the data and omit one point at a time and return the new data if(is.</description>
@@ -222,79 +222,79 @@ omit.case &amp;lt;- function(the_data,omitted_point) { # This should take the da
     
     <item>
       <title>Week 05 Inclass</title>
-      <link>/inclass/06-inclass/</link>
+      <link>https://php2560.com/inclass/06-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/06-inclass/</guid>
+      <guid>https://php2560.com/inclass/06-inclass/</guid>
       <description>sixth Class: October 16, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  In Class Exercise
 You will not turn anything in but by Friday, October 18 at 11:59pm you will no longer be able to commit.</description>
     </item>
     
     <item>
       <title>Week 05 Preclass</title>
-      <link>/preclass/05-preclass/</link>
+      <link>https://php2560.com/preclass/05-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/05-preclass/</guid>
+      <guid>https://php2560.com/preclass/05-preclass/</guid>
       <description>Introduction We will begin working with functions in R.
 Flipped Material  Sign into Datacamp Complete Writing Functions in R Course Complete these steps for the assignment:  Create a new folder in your pre-class Repository called: Week 05 Copy the readme.md and pre-class-05.Rmd document into this. Follow the instructions and commit often.    Optional Further Examples  Complete Chapters 4: Functions from PHP 1560&amp;frasl;2560 Statistical Programing with R.</description>
     </item>
     
     <item>
       <title>Week 06 Preclass</title>
-      <link>/preclass/06-preclass/</link>
+      <link>https://php2560.com/preclass/06-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/06-preclass/</guid>
+      <guid>https://php2560.com/preclass/06-preclass/</guid>
       <description>Introduction This Class will be working with Functions again. This means there is little new material however, there is some good reading you should all do.
 Required Reading  R For Data Science: Functions Chapter Functional Programming - Advanced R Functionals Function Operators   Pre-Class Problems  Find the files here Save the README.md and pre-class-06.Rmd in your pre-class repository under a new folder called Week 06. Remember to commit often.</description>
     </item>
     
     <item>
       <title>Week 06 Reading</title>
-      <link>/reading/06-reading/</link>
+      <link>https://php2560.com/reading/06-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/06-reading/</guid>
+      <guid>https://php2560.com/reading/06-reading/</guid>
       <description> Optional Reading Read from the following. Most of these books are the same so you may pick 1 or 2 of them.
  Matloff Chap 8 Rizzo Chap 3 Jones Chap 20  </description>
     </item>
     
     <item>
       <title>Week 07 Inclass</title>
-      <link>/inclass/07-inclass/</link>
+      <link>https://php2560.com/inclass/07-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/07-inclass/</guid>
+      <guid>https://php2560.com/inclass/07-inclass/</guid>
       <description>Seventh Class: October 23, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS  Have one Person in your group click on this link and create a group and name that group. All other members can then click on the link and join the appropriate group.  Please click in order to get your github repository with the assignment and starter code.
 You will not turn anything in but by Friday, October 25 at 11:59pm you will no longer be able to commit.</description>
     </item>
     
     <item>
       <title>Week 07 Preclass</title>
-      <link>/preclass/07-preclass/</link>
+      <link>https://php2560.com/preclass/07-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/07-preclass/</guid>
+      <guid>https://php2560.com/preclass/07-preclass/</guid>
       <description>Introduction We will be working with simulations and functions for this week.
 Flipped Material  Sign into Datacamp Complete Chapters 5: Simulations from PHP 1560&amp;frasl;2560 Statistical Programing with R. Complete the Monte Carlo Simulations Chapter   Pre-Class Problems  Find the files here Save the README.md and pre-class-07.Rmd in your pre-class repository under a new folder called Week 07. Remember to commit often. All work is due prior to class at 9:00am.</description>
     </item>
     
     <item>
       <title>Week 07 Reading</title>
-      <link>/reading/07-reading/</link>
+      <link>https://php2560.com/reading/07-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/07-reading/</guid>
+      <guid>https://php2560.com/reading/07-reading/</guid>
       <description> Required Reading  The SQL Tutorial for Data Analysis The SQL Course  </description>
     </item>
     
     <item>
       <title>Week 08 Inclass</title>
-      <link>/inclass/08-inclass/</link>
+      <link>https://php2560.com/inclass/08-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/08-inclass/</guid>
+      <guid>https://php2560.com/inclass/08-inclass/</guid>
       <description>Class 8: October 30, 2019 Agenda  Questions  DO NOT DO ANYTHING BELOW BEFORE I GIVE INSTRUCTIONS 1.This is an individual lab so everyone needs to click on the link below. 2. You can still work together.
 Please click in order to get your github repository with the assignment and starter code.
 You will not turn anything in but by Friday, November 2 at 11:59pm you will no longer be able to commit.</description>
@@ -302,113 +302,113 @@ You will not turn anything in but by Friday, November 2 at 11:59pm you will no l
     
     <item>
       <title>Week 08 Preclass</title>
-      <link>/preclass/08-preclass/</link>
+      <link>https://php2560.com/preclass/08-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/08-preclass/</guid>
+      <guid>https://php2560.com/preclass/08-preclass/</guid>
       <description> Introduction We will be working with simulations and functions for this week.
 Flipped Material  Complete Intro to SQL for Data Science Complete Combining Data in SQL Complete Exploring Data in SQL  </description>
     </item>
     
     <item>
       <title>Week 08 Reading</title>
-      <link>/reading/08-reading/</link>
+      <link>https://php2560.com/reading/08-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/08-reading/</guid>
+      <guid>https://php2560.com/reading/08-reading/</guid>
       <description> Required Reading  Text Mining with R  </description>
     </item>
     
     <item>
       <title>Week 09 Inclass</title>
-      <link>/inclass/09-inclass/</link>
+      <link>https://php2560.com/inclass/09-inclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/inclass/09-inclass/</guid>
-      <description>Class 9: November 6, 2019 Agenda  Questions  Project This project will be a multiweek project that is due on Wednesday, November 28, 2018 at 9am. This project will consist of the following:
+      <guid>https://php2560.com/inclass/09-inclass/</guid>
+      <description>Class 9: November 6, 2019 Agenda  Questions  Project This project will be a multiweek project that is due on Wednesday, November 27, 2019 at 9am. This project will consist of the following:
  Data Scraping Text mining Graphics Reproducible research  More details follow below:
-Day 1: Data Scraping (November 7, 2018) Find a topic that everyone in your group is interested in. Then try to find data which you can scrape with that.</description>
+Day 1: Data Scraping (November 6, 2019) Find a topic that everyone in your group is interested in. Then try to find data which you can scrape with that.</description>
     </item>
     
     <item>
       <title>Week 09 Preclass</title>
-      <link>/preclass/09-preclass/</link>
+      <link>https://php2560.com/preclass/09-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/09-preclass/</guid>
+      <guid>https://php2560.com/preclass/09-preclass/</guid>
       <description> Flipped Material  Sign into Datacamp Complete Working with Web Data in R Complete Webscraping in R from PHP 2560.  Pre-Class Problems  Find the files here Save the README.md and pre-class-09.Rmd in your pre-class repository under a new folder called Week 09. Remember to commit often. All work is due prior to class at 10:30am.  </description>
     </item>
     
     <item>
       <title>Week 09 Reading</title>
-      <link>/reading/09-reading/</link>
+      <link>https://php2560.com/reading/09-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/09-reading/</guid>
+      <guid>https://php2560.com/reading/09-reading/</guid>
       <description> Required Reading  Graphics in R  </description>
     </item>
     
     <item>
       <title>Week 10 Reading</title>
-      <link>/reading/10-reading/</link>
+      <link>https://php2560.com/reading/10-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/10-reading/</guid>
+      <guid>https://php2560.com/reading/10-reading/</guid>
       <description> Required Reading  DataCamp Webscraping in R Beginners Guide to Webscraping in R Primer on Webscraping in R  </description>
     </item>
     
     <item>
       <title>Week 11 Preclass</title>
-      <link>/preclass/11-preclass/</link>
+      <link>https://php2560.com/preclass/11-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/11-preclass/</guid>
+      <guid>https://php2560.com/preclass/11-preclass/</guid>
       <description>Flipped Material  Sign into Datacamp Complete Data Visualization with ggplot2 (Part 1). Complete Data Visualization with ggplot2 (Part 2). Complete Chapter 8: ggplot  Problem Set There is no problem set for this. Please continue to work on your final in class project.</description>
     </item>
     
     <item>
       <title>Week 11 Reading</title>
-      <link>/reading/11-reading/</link>
+      <link>https://php2560.com/reading/11-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/11-reading/</guid>
+      <guid>https://php2560.com/reading/11-reading/</guid>
       <description> Required Reading  R Packages: A Beginner&amp;rsquo;s Guide R Packages  </description>
     </item>
     
     <item>
       <title>Week 12 Preclass</title>
-      <link>/preclass/12-preclass/</link>
+      <link>https://php2560.com/preclass/12-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/12-preclass/</guid>
+      <guid>https://php2560.com/preclass/12-preclass/</guid>
       <description>R Package Building Pre-Class  For the second part of the your work, you will be expected to start learning about R Packages:  Hilary Parker Tutorial RStudio Package Creation MIT Package Step-by-Step Guide Karl Broman Package Primer Hadley Wickham Package Creation Book Getting Ready for Your Package You will be working in groups of 2-3 for this task. Identify your group Create your team and start a repository Create aREADME.</description>
     </item>
     
     <item>
       <title>Week 13 Preclass</title>
-      <link>/preclass/10-preclass/</link>
+      <link>https://php2560.com/preclass/10-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/10-preclass/</guid>
+      <guid>https://php2560.com/preclass/10-preclass/</guid>
       <description>Flipped Material  Sign into Datacamp Complete String Mainipulation in R with stringr. Complete Sentiment Analysis in R the Tidy Way  Problem Set There will be no specific assignment for but make sure you can complete the following type of problems:
 Creating strings, counting characters  Make a string with your last name, and (programmatically) count the number of characters. Make a vector of strings of length 2, with your first name and then last name, and count the number of characters in each.</description>
     </item>
     
     <item>
       <title>Week 13 Preclass</title>
-      <link>/preclass/13-preclass/</link>
+      <link>https://php2560.com/preclass/13-preclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/preclass/13-preclass/</guid>
+      <guid>https://php2560.com/preclass/13-preclass/</guid>
       <description>Shiny App Building Pre-Class Individual Aspect  Go to the Shiny website.  Explore the gallery of Project ideas. Follow the Tutorial Go through this Walkthrough by Dean Attali To show you have done this, create a simple app that takes a standard normal statistic and displays the probability of achieving that value or greater in a standard normal distribution. In other words it takes a (z) value and gives a p-value.</description>
     </item>
     
     <item>
       <title>Week 13 Reading</title>
-      <link>/reading/13-reading/</link>
+      <link>https://php2560.com/reading/13-reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/reading/13-reading/</guid>
+      <guid>https://php2560.com/reading/13-reading/</guid>
       <description> Required Reading  Building Shiny Apps - An Interactive Tutorial How to Build a Shiny App Shiny Tutorial  </description>
     </item>
     
