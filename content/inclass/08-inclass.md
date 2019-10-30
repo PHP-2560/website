@@ -34,3 +34,29 @@ You will not turn anything in but by Friday, November 2 at 11:59pm you will no l
     - Push
     
     
+## Database
+
+
+
+
+[Download Data](https://drive.google.com/file/d/1q2VGPjaK6MxaRDiKFA0x405dAbGvXJNy/view?usp=sharing)
+
+Then you can connect to the database in R with the following code:
+
+```
+library(RMySQL)
+con <- dbConnect(MySQL(),
+                 user = 'rcourse',
+                 password = .rs.askForPassword("Enter Password"),
+                 host = 'rcourse.c00zdn7tgzwg.us-east-1.rds.amazonaws.com',
+                 port=3306,
+                 dbname='rcourse')
+```
+    
+    
+## Change the read data code for where your file is:
+
+```
+titanic <- read.table("C:/Users/adam_/Downloads/titanic.csv", header=TRUE, sep=",")
+```
+    

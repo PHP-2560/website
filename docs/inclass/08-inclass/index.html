@@ -158,6 +158,26 @@
 </ul></li>
 </ul>
 
+<h2 id="database">Database</h2>
+
+<p><a href="https://drive.google.com/file/d/1q2VGPjaK6MxaRDiKFA0x405dAbGvXJNy/view?usp=sharing">Download Data</a></p>
+
+<p>Then you can connect to the database in R with the following code:</p>
+
+<pre><code>library(RMySQL)
+con &lt;- dbConnect(MySQL(),
+                 user = 'rcourse',
+                 password = .rs.askForPassword(&quot;Enter Password&quot;),
+                 host = 'rcourse.c00zdn7tgzwg.us-east-1.rds.amazonaws.com',
+                 port=3306,
+                 dbname='rcourse')
+</code></pre>
+
+<h2 id="change-the-read-data-code-for-where-your-file-is">Change the read data code for where your file is:</h2>
+
+<pre><code>titanic &lt;- read.table(&quot;C:/Users/adam_/Downloads/titanic.csv&quot;, header=TRUE, sep=&quot;,&quot;)
+</code></pre>
+
 	      </div>
       </div>
 		</div>
