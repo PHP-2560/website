@@ -59,4 +59,10 @@ con <- dbConnect(MySQL(),
 ```
 titanic <- read.table("C:/Users/adam_/Downloads/titanic.csv", header=TRUE, sep=",")
 ```
+
+
+
+## Directly use Dplyr in SQL
+
+[THis page shows you how](https://beanumber.github.io/mysql-r-webinar/dplyr.html)
     
