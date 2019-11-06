@@ -6,6 +6,10 @@ title: "Week 09 Inclass"
 #  Class 9:  November 6, 2019
 
 
+## Watch this video to start:
+
+<iframe src="https://player.vimeo.com/video/371301658" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ## Agenda
 
 1. Questions
