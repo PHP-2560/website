@@ -35,7 +35,7 @@ It is very important that we can create tools and present and display material f
 
 
 
-1. 11/21/2018-11/28/2018
+1. 11/20/2019-11/27/2019
   - For the second part of the your work, you will be expected to start learning about R Packages:
     - [Hilary Parker Tutorial](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
     - [RStudio Package Creation](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio)
@@ -47,9 +47,9 @@ It is very important that we can create tools and present and display material f
     - Identify your group
     - Create your team and start a [repository](https://classroom.github.com/g/wxbg5R5K)
     - Create a`README.md` outlining what your package will be and what each member of the group will do for this package. 
-2. 11/28/2018
+2. 11/27/2019
   - Bring your package to Class so we can work on it. 
-3.  12/16/2018 
+3.  12/16/2019
     - Final package due to me.
     - Provide an explanation of how it is to be used and discussing the creation of it.
     - Detail the parts of the app you did individually.
@@ -104,7 +104,7 @@ Topic| Excellent: <br> ✓+ coded as +  | Satisfactory: <br> ✓ coded as 0  |Ne
 
 
 
-1. 11/28/2018 - 12/05/2018
+1. 11/27/2019 - 12/04/2019
     - During this week you will be learning how to write a shiny app.
     - Your calculator must be in a single file format.
     - Must be done individually.
@@ -115,14 +115,13 @@ Topic| Excellent: <br> ✓+ coded as +  | Satisfactory: <br> ✓ coded as 0  |Ne
         - What types of options might you try to included for the user.
     - If you are struggling with ideas [check this out](/ideas)
     - [Project Starter Code](https://classroom.github.com/group-assignment-invitations/b77f48fc4b1da879109937becd702531)
-3. 12/05/2018 and 12/12/2018
+3. 12/04/2019 and 12/11/2019
     - Bring a rough copy of your app to class.
     - We will spend the entire class working on Apps. 
-4. 12/16/2018 at 9:00 AM
+4. 12/16/2019 at 9:00 AM
     - Each group will have turned in a video presentation running through and explaining their app. 
     - Presentations must be concise and display usage of the app.
-5. 12/21/2017 
-    - Based on your presentation, we will make some suggestions on final improvements and then you will have to time work on them before the final product.
+5. 12/18/2019 
     - Final App due to me.
     - You must have your final app in either a 1 or 2 file format.
     - Provide an explanation of how it is to be used and discussing the creation of it.
