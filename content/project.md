@@ -45,7 +45,7 @@ It is very important that we can create tools and present and display material f
   - Getting Ready for Your Package
     -  You will be working in groups of 2-3 for this task. 
     - Identify your group
-    - Create your team and start a [repository](https://classroom.github.com/g/wxbg5R5K)
+    - Create your team and start a [repository](https://classroom.github.com/g/99kgqU__)
     - Create a`README.md` outlining what your package will be and what each member of the group will do for this package. 
 2. 11/27/2019
   - Bring your package to Class so we can work on it. 
@@ -114,7 +114,7 @@ Topic| Excellent: <br> ✓+ coded as +  | Satisfactory: <br> ✓ coded as 0  |Ne
         - How do you see it being used?
         - What types of options might you try to included for the user.
     - If you are struggling with ideas [check this out](/ideas)
-    - [Project Starter Code](https://classroom.github.com/group-assignment-invitations/b77f48fc4b1da879109937becd702531)
+    - [Project Starter Code](https://classroom.github.com/g/z274jJmm)
 3. 12/04/2019 and 12/11/2019
     - Bring a rough copy of your app to class.
     - We will spend the entire class working on Apps. 

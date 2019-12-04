@@ -16,5 +16,5 @@ title: "Week 12 Preclass"
   - Getting Ready for Your Package
     -  You will be working in groups of 2-3 for this task. 
     - Identify your group
-    - Create your team and start a [repository](https://classroom.github.com/g/zzSwxWNH)
+    - Create your team and start a [repository](https://classroom.github.com/g/99kgqU__)
     - Create a`README.md` outlining what your package will be and what each member of the group will do for this package. 
